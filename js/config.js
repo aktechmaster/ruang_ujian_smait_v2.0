@@ -2,9 +2,9 @@ const CONFIG = {
     // ===================================================
     // 🗄️ DATABASE UTAMA (Data Kelas, Nama Siswa, Token)
     // ===================================================
-    URL_DATA_SISWA: "https://docs.google.com/spreadsheets/d/e/2PACX-1vS1Mkf4X5IzQEZJNj4Z3MlJmuGb5jZKZ7Q8Xskv5K-m-Ni4MFOk4CFbpkgTAE7J_Zw56rCP40ch3BY1/pub?gid=0&single=true&output=csv",
+    URL_DATA_SISWA: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT6novhtdYk9Q6KGe6RXphbD8NZcABqVzssBFyGWbY3kx_td_JKnBDxkPygJiEwANgsB8TwQ-j3hU_a/pub?gid=0&single=true&output=csv",
 
-    URL_TOKEN_MAPEL: "https://docs.google.com/spreadsheets/d/e/2PACX-1vS1Mkf4X5IzQEZJNj4Z3MlJmuGb5jZKZ7Q8Xskv5K-m-Ni4MFOk4CFbpkgTAE7J_Zw56rCP40ch3BY1/pub?gid=1977703741&single=true&output=csv",
+    URL_TOKEN_MAPEL: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT6novhtdYk9Q6KGe6RXphbD8NZcABqVzssBFyGWbY3kx_td_JKnBDxkPygJiEwANgsB8TwQ-j3hU_a/pub?gid=1977703741&single=true&output=csv",
 
     // ===================================================
     // 🔘 SAKELAR UTAMA (Ubah nilai ini sesuai pekan ujian)
