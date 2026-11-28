@@ -128,7 +128,7 @@
     },
     {
       "id_soal": 11,
-      "teks_pertanyaan": "Ilmu tafsir secara bahasa berasal dari kata فَسَّرَ yang berarti ....",
+      "teks_pertanyaan": "Ilmu tafsir secara bahasa berasal dari kata <bdi>فَسَّرَ</bdi> yang berarti ....",
       "pilihan_jawaban": [
         "A. Menghafal",
         "B. Membaca",
@@ -332,7 +332,7 @@
     },
     {
       "id_soal": 28,
-      "teks_pertanyaan": "Mengapa seruan يَا أَيُّهَا الَّذِينَ آمَنُوا banyak ditemukan dalam surah Madaniyah?",
+      "teks_pertanyaan": "Mengapa seruan <bdi>يَا أَيُّهَا الَّذِينَ آمَنُوا</bdi> banyak ditemukan dalam surah Madaniyah?",
       "pilihan_jawaban": [
         "A. Karena hanya orang Quraisy yang beriman",
         "B. Karena seluruh penduduk Makkah telah beriman",
@@ -404,7 +404,7 @@
     },
     {
       "id_soal": 34,
-      "teks_pertanyaan": "Seorang peneliti menafsirkan QS. An-Nahl ayat 44 dengan menjelaskan arti kata الذكر, konteks ayat, tugas Nabi, dan pendapat ulama mengenai sunnah. Metode yang digunakan adalah ....",
+      "teks_pertanyaan": "Seorang peneliti menafsirkan QS. An-Nahl ayat 44 dengan menjelaskan arti kata <bdi>الذكر</bdi>, konteks ayat, tugas Nabi, dan pendapat ulama mengenai sunnah. Metode yang digunakan adalah ....",
       "pilihan_jawaban": [
         "A. Metode tematik",
         "B. Metode ijmali",
