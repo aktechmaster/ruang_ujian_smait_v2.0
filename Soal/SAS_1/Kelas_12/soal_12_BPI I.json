@@ -1,0 +1,397 @@
+{
+  "metadata": {
+    "mata_pelajaran": "BPI",
+    "jenis_ujian": "SAS_1",
+    "jumlah_soal": 35,
+    "durasi_menit": 60
+  },
+  "bank_soal": [
+    {
+      "id_soal": 1,
+      "teks_pertanyaan": "Dalam Q.S. Ibrahim ayat 27 dijelaskan bahwa Allah Swt. meneguhkan (iman) orang-orang yang beriman dengan ucapan yang teguh dalam kehidupan di dunia dan di akhirat, sedangkan orang-orang yang zalim akan disesatkan. Berdasarkan hadis riwayat Muslim dari Al-Barra' bin 'Azib r.a., ayat tersebut berkaitan dengan peristiwa fitnah kubur ketika seseorang ditanya oleh Malaikat Munkar dan Nakir. Hikmah dan bentuk pertolongan Allah bagi orang yang beriman saat menghadapi peristiwa tersebut adalah...",
+      "pilihan_jawaban": [
+        "A. Mendapatkan keringanan untuk tidak menjawab pertanyaan malaikat karena amal salehnya di dunia",
+        "B. Diteguhkan oleh Allah Swt. sehingga mampu menjawab pertanyaan dengan benar, seperti mengakui Allah sebagai Rabb dan Nabi Muhammad saw. sebagai nabi",
+        "C. Langsung dipindahkan ke alam akhirat tanpa melalui proses di alam barzah",
+        "D. Diselamatkan dari pertanyaan malaikat selama memiliki harta yang banyak di dunia",
+        "E. Hanya diuji dengan satu pertanyaan ringan sebelum kuburnya diluaskan"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 2,
+      "teks_pertanyaan": "Berdasarkan hadis riwayat Tirmidzi, Ibnu Majah, dan Ahmad dari Al-Barra' bin 'Azib r.a., kaum mukminin yang jujur dalam keimanannya dan berhasil menjawab pertanyaan Malaikat Munkar dan Nakir akan memperoleh nikmat kubur. Salah satu bentuk nikmat kubur yang disebutkan dalam hadis tersebut adalah...",
+      "pilihan_jawaban": [
+        "A. Dibebaskannya dari kewajiban beramal sejak masih hidup di dunia",
+        "B. Diperlihatkan neraka pada waktu pagi dan petang sebagai pengingat",
+        "C. Dihamparkan permadani dari surga, dibukakan pintu-pintu surga, diberi pakaiann dan wewangian surga, serta kuburnya diluaskan sejauh mata memandang",
+        "D. Dipersingkat masa tunggunya di alam barzah hingga hanya berlangsung beberapa jam",
+        "E. Diberikan kesempatan kembali ke dunia untuk memperbaiki amal ibadahnya"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 3,
+      "teks_pertanyaan": "Berdasarkan hadis riwayat Nasa'i dalam materi tersebut, kedudukan salat malam (<i>qiyāmul lail</i>) dibandingkan salat sunah lainnya adalah ....",
+      "pilihan_jawaban": [
+        "A. Salat sunah yang paling utama setelah salat fardu",
+        "B. Salat sunah yang dikhususkan bagi orang yang memiliki dosa besar",
+        "C. Salat sunah yang pahalanya setara dengan salat rawatib",
+        "D. Salat sunah yang hanya dianjurkan pada bulan Ramadan"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 4,
+      "teks_pertanyaan": "Sufyan ats-Tsauri pernah menuturkan bahwa ia merasa sangat sulit untuk melaksanakan salat malam selama lima bulan akibat satu dosa yang diperbuatnya. Berdasarkan kiat melaksanakan salat malam dalam materi, sikap yang tepat jika kita terlanjur melakukan kemaksiatan adalah ....",
+      "pilihan_jawaban": [
+        "A. Menunda ibadah hingga merasa diri sudah sepenuhnya suci",
+        "B. Mengandalkan kemampuan diri sendiri agar kembali bersemangat",
+        "C. Memohon ampunan kepada Allah Swt. dan membiasakan muhasabah",
+        "D. Mengurangi porsi makan secara ekstrem agar tubuh tidak mengantuk"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 5,
+      "teks_pertanyaan": "Dalam kisah <i>Tokoh Inspirasi</i> (Abu Abdillah Hudzaifah Ibnul Yaman) yang salat tahajud bersama Rasulullah saw., sikap yang ditunjukkan Rasulullah saw. saat membaca ayat-ayat Al-Qur'an dengan tartil adalah ....",
+      "pilihan_jawaban": [
+        "A. Mempercepat bacaan agar dapat menyelesaikan banyak rakaat sebelum subuh",
+        "B. Bertasbih saat membaca ayat tentang kemahasucian Allah, berdoa saat ayat permohonan, dan berta'awwudz saat ayat perlindungan",
+        "C. Hanya membaca satu surah pendek di setiap rakaatnya agar rukuk dan sujud lebih lama",
+        "D. Menghentikan bacaan di tengah ayat setiap kali merasa lelah berdiri"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 6,
+      "teks_pertanyaan": "Secara bahasa Arab, kata Ramadan berasal dari kata ramadā atau ar-ramad yang memiliki arti...",
+      "pilihan_jawaban": [
+        "A. Bulan yang penuh rahmat",
+        "B. Panas yang menghanguskan atau kekeringan",
+        "C. Malam penuh kemuliaan",
+        "D. Bulan penyucian diri"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 7,
+      "teks_pertanyaan": "Pintu surga yang dikhususkan bagi orang-orang yang berpuasa dinamakan...",
+      "pilihan_jawaban": [
+        "A. Ar-Rayyan",
+        "B. Al-Firdaus",
+        "C. Darussalam",
+        "D. Ma'wa"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 8,
+      "teks_pertanyaan": "Keutamaan bulan ramadhan di bawah ini, kecuali………",
+      "pilihan_jawaban": [
+        "A. Bulan diturunkannya Al-Quran",
+        "B. Terdapatnya lailatul qadar (malam kemuliaan)",
+        "C. Diampuni dosa-dosa yang lalu",
+        "D. Dipadamkannya ammar ma’ruf nahi mungkar"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 9,
+      "teks_pertanyaan": "Di bawah ini pengertian islam yang kurang tepat adalah",
+      "pilihan_jawaban": [
+        "A. Menundukkan wajah (Aslama)",
+        "B. Berserah diri (Istaslama)",
+        "C. Bersih, sehat dan suci (Salam)",
+        "D. Perdamaian (silmun)"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 10,
+      "teks_pertanyaan": "Agama islam berfungsi sebagai minjahjul hayyah, yang memiliki makna",
+      "pilihan_jawaban": [
+        "A. sebagai pedoman dalam berkehidupan",
+        "B. Sebagai penanda kehidupan",
+        "C. Sebagai pendamping manusia berkehidupan",
+        "D. Sebagai bacaan dalam berkehidupan"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 11,
+      "teks_pertanyaan": "Berdasarkan materi, kata \"doa\" berasal dari bahasa Arab yang memiliki dua akar kata. Salah satu akar katanya adalah da'ā–yad'ū–da'watan yang memiliki arti ....",
+      "pilihan_jawaban": [
+        "A. Menyeru, memanggil, mengajak, dan menjamu",
+        "B. Memohon, bersyukur, dan bertawakal",
+        "C. Mengagungkan, memuji, dan bertasbih",
+        "D. Meminta, berharap, dan bersabar"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 12,
+      "teks_pertanyaan": "Saat yang paling dekat antara seorang hamba dengan Rabb-nya sehingga dianjurkan untuk memperbanyak doa adalah ketika ....",
+      "pilihan_jawaban": [
+        "A. Setelah salat berjamaah",
+        "B. Sedang sujud",
+        "C. Sebelum terbit matahari",
+        "D. Sedang membaca Al-Qur'an"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 13,
+      "teks_pertanyaan": "Dalam doa Nabi Yunus a.s. ketika berada di tiga kegelapan (Lā ilāha illā anta, subḥānaka, innī kuntu miṇaẓ-ẓālimīn), lafal innī kuntu miṇaẓ-ẓālimīn menunjukkan",
+      "pilihan_jawaban": [
+        "A. Permohonan rezeki yang halal",
+        "B. Pujian kepada kebesaran Allah Swt.",
+        "C. Pengakuan yang tulus atas kesalahan diri sendiri",
+        "D. Doa agar terhindar dari musuh"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 14,
+      "teks_pertanyaan": "Menurut Dr. Yusuf Al-Qaradawi, salah satu syarat agar doa dikabulkan adalah berusaha seoptimal mungkin. Contoh penerapan syarat tersebut ketika meminta rezeki kepada Allah Swt. adalah ....",
+      "pilihan_jawaban": [
+        "A. Menunggu rezeki datang tanpa melakukan aktivitas apa pun",
+        "B. Berdoa dengan suara keras di tempat umum",
+        "C. Memperbanyak doa hanya pada saat mengalami kesulitan",
+        "D. Mengiringi doa dengan usaha nyata seperti bekerja mencari rezeki yang halal"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 15,
+      "teks_pertanyaan": "Syarat dikabulkannya doa di bawah ini, kecuali…..",
+      "pilihan_jawaban": [
+        "A. Harus berusaha Optimal",
+        "B. Ikhlas dan tulus",
+        "C. Berhenti berdoa saat tidak ada keinginan",
+        "D. Menghindari yang haram"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 16,
+      "teks_pertanyaan": "Dalam hadis yang diriwayatkan oleh Imam At-Turmudzi, Rasulullah SAW menjelaskan bahwa membaca satu huruf dari Kitabullah akan mendapatkan satu hasanah yang dilipatgandakan menjadi sepuluh kali. Berdasarkan contoh dalam hadis tersebut, apabila seseorang membaca lafal <i>\"Alif Lam Mim\"</i> (الم), berapa jumlah huruf yang dihitung?",
+      "pilihan_jawaban": [
+        "A. 1 huruf, karena dianggap sebagai satu rangkaian pembuka surah",
+        "B. 2 huruf, karena terdiri dari huruf berharakat dan sukun",
+        "C. 3 huruf, yaitu huruf <i>Alif</i>, <i>Lam</i>, dan <i>Mim</i> masing-masing dihitung satu huruf",
+        "D. 10 huruf, karena langsung dikalikan sepuluh pahala kebaikan"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 17,
+      "teks_pertanyaan": "Dalam sebuah hadis <i>Muttafaqun 'Alaih</i>, Rasulullah SAW mengumpamakan seorang mukmin yang tidak membaca Al-Qur'an seperti buah kurma (<i>tamrah</i>). Apa makna perumpamaan tersebut sesuai materi?",
+      "pilihan_jawaban": [
+        "A. Tidak memiliki aroma yang harum, tetapi rasanya manis",
+        "B. Aromanya harum, tetapi rasanya pahit",
+        "C. Tidak memiliki aroma dan rasanya pahit",
+        "D. Aromanya harum dan rasanya manis"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 18,
+      "teks_pertanyaan": "Menurut materi <i>Ahdaf Tilawah Al-Qur'an</i> dan <i>Fadha'il Khatam Al-Qur'an</i>, manakah yang termasuk keutamaan (<i>fadha'il</i>) khatam Al-Qur'an di <b>dunia</b> sekaligus menunjukkan tujuan (<i>ahdaf</i>) tilawah sebagai <i>tsaqafah</i> (penjelas dan petunjuk)?",
+      "pilihan_jawaban": [
+        "A. Terangkat kedudukannya di surga dan mengangkat derajat orang tua di akhirat",
+        "B. Ketenangan jiwa, naungan dari malaikat, serta menjadikan Al-Qur'an sebagai penjelas segala sesuatu dan petunjuk",
+        "C. Menjadi hamba yang dibangga-banggakan dan memperoleh syafaat di hari kiamat",
+        "D. Mendapatkan pahala yang berlipat ganda dan rahmat Allah SWT di akhirat"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 19,
+      "teks_pertanyaan": "Dalam hadis yang diriwayatkan oleh Imam At-Turmudzi dari Ibnu Abbas RA, Rasulullah SAW mengumpamakan seseorang yang di hatinya tidak ada sesuatu pun dari Al-Qur'an seperti apa?",
+      "pilihan_jawaban": [
+        "A. Cahaya yang menerangi jalan di malam hari",
+        "B. Rumah yang rusak (<i>al-bait al-kharib</i>)",
+        "C. Pohon yang rindang dan berbuah manis",
+        "D. Bejana yang penuh dengan air yang jernih"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 20,
+      "teks_pertanyaan": "Berdasarkan hadis riwayat Imam Ahmad dari Abu Hurairah RA, apa saja yang akan terjadi ketika suatu kaum berkumpul di salah satu rumah Allah (masjid) untuk membaca, mempelajari, dan mendiskusikan kitab Allah?",
+      "pilihan_jawaban": [
+        "A. Mereka hanya mendapatkan ketenangan jiwa tanpa naungan malaikat",
+        "B. Para malaikat akan menaungi mereka, rahmat tercurah, <i>sakinah</i> turun, dan Allah menyebut nama mereka kepada makhluk di sisi-Nya",
+        "C. Mereka langsung dijamin masuk surga tanpa melalui hisab di hari kiamat",
+        "D. Mereka dibebaskan dari kewajiban mendirikan salat malam"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 21,
+      "teks_pertanyaan": "Secara bahasa, kata khalaṣa yang menjadi akar kata dari ikhlas memiliki arti...",
+      "pilihan_jawaban": [
+        "A. Maksud atau tujuan",
+        "B. Bersih atau murni",
+        "C. Tunduk atau patuh",
+        "D. Berusaha dengan sungguh-sungguh"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 22,
+      "teks_pertanyaan": "Salah satu syarat diterimanya suatu amal atau perbuatan di sisi Allah Swt. adalah...",
+      "pilihan_jawaban": [
+        "A. Dilakukan di hadapan banyak orang",
+        "B. Mendapat pujian dari sesama",
+        "C. Sesuai dengan syariat Islam (Al-Qur'an dan Sunah)",
+        "D. Menghasilkan balasan di dunia"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 23,
+      "teks_pertanyaan": "Seorang mukmin tetap mendapatkan pahala karena niatnya meskipun tidak mengerjakan niatnya tersebut disebabkan oleh...",
+      "pilihan_jawaban": [
+        "A. Rasa lupa yang disengaja",
+        "B. Kurangnya waktu luang",
+        "C. Adanya uzur",
+        "D. Menunggu pujian orang lain"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 24,
+      "teks_pertanyaan": "Salah satu adab berzikir yang dijelaskan dalam materi adalah memperhatikan cara pelafalan dan suaranya. Bagaimanakah adab suara saat berzikir yang dianjurkan?",
+      "pilihan_jawaban": [
+        "A. Dikeraskan agar terdengar oleh orang-orang di sekitar",
+        "B. Dilakukan secepat mungkin agar mendapatkan jumlah yang banyak",
+        "C. Dilakukan dengan suara yang tidak keras dan tidak terlalu pelan",
+        "D. Hanya dilakukan di dalam hati tanpa menggerakkan lisan sama sekali"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 25,
+      "teks_pertanyaan": "Secara bahasa (lughah), kata at-taubah berarti ar-ruju' yang memiliki arti...",
+      "pilihan_jawaban": [
+        "A. Memohon ampun dengan lisan",
+        "B. Kembali",
+        "C. Menahan hawa nafsu",
+        "D. Menyucikan harta"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 26,
+      "teks_pertanyaan": "Salah satu penyebab dosa kecil dapat berubah menjadi dosa besar di sisi Allah SWT adalah...",
+      "pilihan_jawaban": [
+        "A. Dilakukan secara sembunyi-sembunyi dan langsung disesali",
+        "B. Dilakukan karena tidak sengaja dan tidak diulang",
+        "C. Dilakukan terus-menerus serta dianggap remeh oleh pelakunya",
+        "D. Terjadi sebelum seseorang memasuki usia baligh"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 27,
+      "teks_pertanyaan": "Apabila dosa seseorang berkaitan dengan hak sesama manusia (seperti harta atau kezaliman), maka syarat tobatnya ditambah dengan...",
+      "pilihan_jawaban": [
+        "A. Membayar kaffarah berupa puasa tiga hari berturut-turut",
+        "B. Melunasi atau mengembalikan hak orang tersebut, meminta kerelaannya/maaf, atau memperbanyak amal kebaikan",
+        "C. Menunggu hingga datangnya musim haji berikutnya",
+        "D. Menceritakan kesalahan tersebut di hadapan majelis taklim"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 28,
+      "teks_pertanyaan": "Berdasarkan hadits riwayat Muslim tentang pintu tobat, pintu tobat yang dibentangkan Allah SWT siang dan malam akan terus terbuka hingga...",
+      "pilihan_jawaban": [
+        "A. Datangnya bulan Ramadhan",
+        "B. Selesainya shalat malam",
+        "C. Matahari terbit dari arah barat",
+        "D. Seseorang berusia lanjut"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 29,
+      "teks_pertanyaan": "Apa yang sebaiknya dibaca oleh seseorang jika lupa membaca Bismillah sebelum makan?",
+      "pilihan_jawaban": [
+        "A. Alhamdulillahirabbil 'alamin",
+        "B. Bismillahi fi awwalihi wa akhirihi",
+        "C. Subhanallah wa bihamdihi",
+        "D. Astaghfirullahal 'azim"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 30,
+      "teks_pertanyaan": "Ketika mengambil makanan dari piring atau nampan, bagian manakah yang sebaiknya diambil terlebih dahulu?",
+      "pilihan_jawaban": [
+        "A. Bagian tengah piring",
+        "B. Bagian paling jauh dari kita",
+        "C. Bagian yang terdekat dengan kita",
+        "D. Bagian yang paling banyak lauknya"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 31,
+      "teks_pertanyaan": "Sikap manakah yang sebaiknya dihindari saat makan atau minum menurut materi tersebut?",
+      "pilihan_jawaban": [
+        "A. Menggunakan tangan kanan",
+        "B. Makan dan minum sambil duduk",
+        "C. Bernapas di dalam gelas ketika minum",
+        "D. Memungut dan membersihkan makanan yang jatuh"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 32,
+      "teks_pertanyaan": "Mengapa Islam melarang makan dan minum secara berlebih-lebihan (mubadzir)?",
+      "pilihan_jawaban": [
+        "A. Karena termasuk perbuatan yang tidak disukai Allah Swt. dan dapat memicu masalah kesehatan",
+        "B. Karena membuat makanan cepat dingin",
+        "C. Karena mengurangi jumlah piring yang dicuci",
+        "D. Karena mengharuskan kita makan sambil berdiri"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 33,
+      "teks_pertanyaan": "Bagaimana sikap Rasulullah saw. ketika dihidangkan makanan yang kurang sesuai dengan seleranya?",
+      "pilihan_jawaban": [
+        "A. Mencela makanan tersebut di depan yang menyajikannya",
+        "B. Memaksakan diri menghabiskan seluruh makanan hingga habis",
+        "C. Menolak dengan ramah dan santun tanpa menghina makanan tersebut",
+        "D. Membuang makanan tersebut ke lantai"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 34,
+      "teks_pertanyaan": "Apa makna menahan pandangan (<i>ghadh-dhul bashar</i>) yang tepat menurut materi tersebut?",
+      "pilihan_jawaban": [
+        "A. Menutup atau memejamkan mata hingga tidak melihat apa pun",
+        "B. Menundukkan kepala ke tanah sepanjang waktu",
+        "C. Menjaga pandangan agar tidak liar dan menahan dari hal yang diharamkan Allah SWT",
+        "D. Menghindari semua tempat umum agar tidak bertemu orang lain"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 35,
+      "teks_pertanyaan": "Menurut hadits Rasulullah SAW yang diriwayatkan oleh Imam Muslim dari Jarir bin Abdillah RA, apa yang harus dilakukan seseorang ketika mengalami pandangan tiba-tiba (tanpa sengaja)?",
+      "pilihan_jawaban": [
+        "A. Membiarkannya dan terus memperhatikan",
+        "B. Segera memalingkan pandangannya",
+        "C. Berpuasa sunnah pada hari itu juga",
+        "D. Membayar kafarat berupa sedekah"
+      ],
+      "kunci_jawaban": "B"
+    }
+  ]
+}
