@@ -1,0 +1,616 @@
+{
+  "metadata": {
+    "mata_pelajaran": "Sejarah Indonesia",
+    "jenis_ujian": "SAS_1",
+    "jumlah_soal": 50,
+    "durasi_menit": 120
+  },
+  "bank_soal": [
+    {
+      "id_soal": 1,
+      "teks_pertanyaan": "Berat Secara etimologis, sejarah berasal dari kata Syajaratun yang berasal dari bahasa arab yang berarti . . .",
+      "pilihan_jawaban": [
+        "A. Akar",
+        "B. Ranting",
+        "C. Cabang",
+        "D. Pohon",
+        "E. Dahan"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 2,
+      "teks_pertanyaan": "Ilmu yang mempelajari kehidupan masa lampau sebelum adanya sumber-sumber tertulis disebut . . .",
+      "pilihan_jawaban": [
+        "A. Ilmu Sejarah",
+        "B. Ilmu Antropologi",
+        "C. Ilmu Arkeologi",
+        "D. Ilmu Geologi",
+        "E. Ilmu Prasejarah"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 3,
+      "teks_pertanyaan": "Yang di sebut sebagai bapak sejarah adalah . . .",
+      "pilihan_jawaban": [
+        "A. Ibnu Khaldun",
+        "B. Herodotus",
+        "C. R.G. Collingwood",
+        "D. Aristoteles",
+        "E. Muhammad Yamin"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 4,
+      "teks_pertanyaan": "Di bawah ini yang termasuk contoh dari sejarah adalah . . .",
+      "pilihan_jawaban": [
+        "A. Jalan-jalan ke pantai",
+        "B. Proklamasi",
+        "C. Mantan",
+        "D. Piknik",
+        "E. Jalan-jalan ke mall"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 5,
+      "teks_pertanyaan": "Berikut yang merupakan sifat utama sejarah, kecuali..",
+      "pilihan_jawaban": [
+        "A. Terjadi hanya sekali",
+        "B. Mempengaruhi hidup orang banyak",
+        "C. Di kenang sepanjang masa",
+        "D. Terjadi berkali-kali",
+        "E. Abadi"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 6,
+      "teks_pertanyaan": "Konsep ruang dalam sejarah adalah tempat terjadinya suatu peristiwa terkait berdasarkan aspek . . .",
+      "pilihan_jawaban": [
+        "A. Ekonomi",
+        "B. Sosial",
+        "C. Budaya",
+        "D. Geografis",
+        "E. Politik"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 7,
+      "teks_pertanyaan": "Contoh ruang dan waktu secara berurutan yang benar adalah . . .",
+      "pilihan_jawaban": [
+        "A. Jam dan Hari",
+        "B. Desa dan Kampung",
+        "C. Bulan dan Minggu",
+        "D. Desa dan Hari",
+        "E. Desa dan kota"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 8,
+      "gambar": "Images/SAS_1/images_SI_12/8.png",
+      "teks_pertanyaan": "Dalam gambar berikut contoh konsep ruang adalah . . .",
+      "pilihan_jawaban": [
+        "A. Soekarno",
+        "B. Muhammad Hatta",
+        "C. Bertempat di rumah soekarno",
+        "D. Terjadi tanggal 17 agustus 1945",
+        "E. Daidancho Latief Hendra"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 9,
+      "teks_pertanyaan": "Dari gambar di atas, contoh konsep manusia adalah, kecuali . . .",
+      "pilihan_jawaban": [
+        "A. Soekarno",
+        "B. Muhammad Hatta",
+        "C. Anggota terkait",
+        "D. Daidancho Latief Hendra",
+        "E. Terjadi tanggal 17 agustus 1945"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 10,
+      "teks_pertanyaan": "Contoh bukti sejarah dalam bentuk sumber tulisan adalah, kecuali..",
+      "pilihan_jawaban": [
+        "A. Prasasti",
+        "B. Naskah",
+        "C. Buku",
+        "D. Radio",
+        "E. Koran"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 11,
+      "teks_pertanyaan": "Tujuan belajar sejarah adalah...",
+      "pilihan_jawaban": [
+        "A. Untuk pamer kepada saudara",
+        "B. Bisa menghasilkan uang lebih banyak",
+        "C. Untuk dijadikan pedoman untuk masa kini dan masa depan",
+        "D. Tidak memiliki tujuan",
+        "E. Untuk menjadi ahli sejarah"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 12,
+      "teks_pertanyaan": "Apa karakteristik utama dari Masa Mesolitik?",
+      "pilihan_jawaban": [
+        "A. Penggunaan logam dalam perkakan",
+        "B. Revolusi Pertanian",
+        "C. Penemuan pertama dari alat-alat batu kasar",
+        "D. Perubahan iklim yang dramatis",
+        "E. Penemuan teknologi canggih"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 13,
+      "teks_pertanyaan": "Penemuan Api pada zaman mesolitik berguna untuk ...",
+      "pilihan_jawaban": [
+        "A. membakar mayat",
+        "B. simbol pemujaan kepada dewa",
+        "C. Memasak makanan",
+        "D. Untuk perayaan",
+        "E. Untuk pamer"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 14,
+      "teks_pertanyaan": "Apa yang menjadi sumber utama makanan masyarakat Mesolitikum?",
+      "pilihan_jawaban": [
+        "A. Pertanian",
+        "B. Berburu, memancing, dan mengumpulkan",
+        "C. Peternakan",
+        "D. Perdagangan",
+        "E. Jual beli makanan"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 15,
+      "teks_pertanyaan": "Bagaimana manusia Mesolitikum membuat perkakas mereka?",
+      "pilihan_jawaban": [
+        "A. Dengan memanfaatkan logam",
+        "B. Dengan membuat perkakas dari kayu",
+        "C. Dengan mengukir dari batu",
+        "D. Dengan merajut dari serat tumbuhan",
+        "E. Dengan mesin-mesin canggih"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 16,
+      "teks_pertanyaan": "Apa yang ditemukan di situs-situs Mesolitikum yang memberikan informasi tentang aspek sosial masyarakat?",
+      "pilihan_jawaban": [
+        "A. Lukisan gua",
+        "B. Peninggalan logam",
+        "C. Fosil manusia",
+        "D. Batu hias",
+        "E. Teknologi canggih"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 17,
+      "teks_pertanyaan": "Apa yang dianggap sebagai perkembangan signifikan dalam seni pada Masa Mesolitikum?",
+      "pilihan_jawaban": [
+        "A. Seni abstrak",
+        "B. Seni tari",
+        "C. Seni pertunjukan",
+        "D. Seni pahat patung",
+        "E. Seni lukis gua"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 18,
+      "teks_pertanyaan": "Apa yang menyebabkan manusia Mesolitikum mulai membentuk kelompok-kelompok kecil dan berpindah-pindah?",
+      "pilihan_jawaban": [
+        "A. Adanya ancaman dari hewan buas",
+        "B. Keterbatasan sumber daya alam",
+        "C. Keinginan untuk hidup sebagai nomaden",
+        "D. Penemuan logam yang langka",
+        "E. Serangan dari hewan buas"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 19,
+      "teks_pertanyaan": "Apa yang menjadi karakteristik utama Zaman Logam?",
+      "pilihan_jawaban": [
+        "A. Penggunaan batu sebagai bahan utama",
+        "B. Penggunaan logam sebagai bahan utama",
+        "C. Dominasi teknologi pertanian",
+        "D. Berkembangnya seni lukis gua",
+        "E. Ditemukannya api"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 20,
+      "teks_pertanyaan": "Apa yang menjadi dampak teknologi pengecoran pada pembuatan senjata pada Zaman Logam?",
+      "pilihan_jawaban": [
+        "A. Senjata menjadi lebih ringan",
+        "B. Senjata menjadi lebih tajam",
+        "C. Senjata menjadi lebih mudah rusak",
+        "D. Tidak ada perubahan pada senjata",
+        "E. Senjata menjadi lebih kuat dan tahan lama"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 21,
+      "gambar": "Images/SAS_1/images_SI_12/21.png",
+      "teks_pertanyaan": "Berikut adalah salah satu contoh peninggalan zaman megalitikum yang bernama...",
+      "pilihan_jawaban": [
+        "A. Punden berundak",
+        "B. Menhir",
+        "C. Sarkofagus",
+        "D. Kubur batu",
+        "E. Waruga"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 22,
+      "teks_pertanyaan": "Manakah dari berikut yang termasuk dalam peninggalan lisan?",
+      "pilihan_jawaban": [
+        "A. Patung-patung kuno",
+        "B. Karya seni lukis prasejarah",
+        "C. Dongeng dan cerita rakyat",
+        "D. Tulisan di batu purbakala",
+        "E. Prasasti yang tertulis di batu"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 23,
+      "teks_pertanyaan": "Gubernur pertama VOC ...",
+      "pilihan_jawaban": [
+        "A. Pieter Both",
+        "B. J. P. Coen",
+        "C. Van Neck",
+        "D. Cornelis de Houtman",
+        "E. Alfonso de Alberquerque"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 24,
+      "teks_pertanyaan": "Faktor-faktor yang mendorong bangsa eropa melakukan pelayaran samudra adalah, kecuali . . .",
+      "pilihan_jawaban": [
+        "A. Lemahnya perekonomian eropa",
+        "B. Berkembangnya teknologi pelayaran",
+        "C. Berkembangnya merkantilisme di eropa",
+        "D. Konstatinopel dikuasai turkey usmani (ottoman)",
+        "E. Kekayaan perdagangan (gold), penyebaran agama (gospel), kekuasaan (glory)"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 25,
+      "teks_pertanyaan": "Apa itu VOC ...",
+      "pilihan_jawaban": [
+        "A. Pasukan Prajurit Belanda",
+        "B. Pasukan Prajurit gabungan eropa",
+        "C. Serikat dagang Belanda",
+        "D. Serikat dagang negara Eropa",
+        "E. Serikat dagang Portugis dan Spanyol"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 26,
+      "teks_pertanyaan": "Masuknya bangsa portugis ke Indonesia dibawa pimpinan . . .",
+      "pilihan_jawaban": [
+        "A. Cornelis de Houtman",
+        "B. Alfonso de Albuquerque",
+        "C. Vasco da Gama",
+        "D. Ferdinand Magellan",
+        "E. Sebastian del Cano"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 27,
+      "teks_pertanyaan": "Markas Pertama VOC bertempat di...",
+      "pilihan_jawaban": [
+        "A. Ambon",
+        "B. Sulawesi",
+        "C. Jayakarta",
+        "D. Yogyakarta",
+        "E. Makasar"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 28,
+      "teks_pertanyaan": "Bangsa Portugis yang datang ke Indonesia di pimpin oleh adalah . . .",
+      "pilihan_jawaban": [
+        "A. Vasco da gama",
+        "B. Sebastian Del Cano",
+        "C. Cornelis de Houtman",
+        "D. Alfonso de Alberquerque",
+        "E. Cornelis de Houtman"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 29,
+      "teks_pertanyaan": "Salah satu tujuan orang eropa di nusantara adalah untuk mendapatkan ketenaran, keunggulan dan kekuasaan atau dikenal dengan nama . . .",
+      "pilihan_jawaban": [
+        "A. Gold",
+        "B. Glory",
+        "C. Kepercayaan",
+        "D. Gospel",
+        "E. Monopoli"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 30,
+      "teks_pertanyaan": "Tujuan bangsa eropa di nusantara ini untuk memenuhi tugas suci untuk menyebar agama, juga dikenal sebagai . . .",
+      "pilihan_jawaban": [
+        "A. Gold",
+        "B. Glory",
+        "C. Kepercayaan",
+        "D. Gospel",
+        "E. Monopoli"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 31,
+      "teks_pertanyaan": "Kota yang menjadi pusat perdagangan dunia sebelum era kolonialisme imperialisme eropa adalah . . . .",
+      "pilihan_jawaban": [
+        "A. Portugis",
+        "B. Spanyol",
+        "C. Belanda",
+        "D. Instanbul",
+        "E. Tiongkok"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 32,
+      "teks_pertanyaan": "Agama yang disebarkan oleh bangsa portugis di daerah pendudukannya adalah . . .",
+      "pilihan_jawaban": [
+        "A. Hindu",
+        "B. Budhha",
+        "C. Islam",
+        "D. Nasrani",
+        "E. Konghucu"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 33,
+      "teks_pertanyaan": "Pelayaran pertama spayol ke arah Barat yang kemudian menemukan benua Amerika dipimpin oleh ...",
+      "pilihan_jawaban": [
+        "A. Pieter both",
+        "B. Alfonso de Alberquerque",
+        "C. Cristoper Colombus",
+        "D. Ferdinand Magelan",
+        "E. Van Neck"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 34,
+      "teks_pertanyaan": "Siapa bangsa eropa pertama yang datang ke Nusantara...",
+      "pilihan_jawaban": [
+        "A. Belanda",
+        "B. Inggris",
+        "C. Spanyol",
+        "D. Portugis",
+        "E. Perancis"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 35,
+      "teks_pertanyaan": "Hak Istimewa VOC di sebut ...",
+      "pilihan_jawaban": [
+        "A. Hak Tordesilas",
+        "B. Hak Oktroi",
+        "C. Hak Cahaya belanda",
+        "D. Hak VOC",
+        "E. Hak Saragosa"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 36,
+      "teks_pertanyaan": "Organisasi pergerakan nasional pertama yang dianggap sebagai pelopor berdirinya organisasi pergerakan nasional lainnya di Indonesia adalah....",
+      "pilihan_jawaban": [
+        "A. Indische Partij",
+        "B. Sarekat Islam",
+        "C. Budi Utomo",
+        "D. PUTERA",
+        "E. PNI"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 37,
+      "teks_pertanyaan": "Di bawah ini adalah faktor yang mendorong dicetuskannya Sumpah Pemuda, kecuali....",
+      "pilihan_jawaban": [
+        "A. kesenjangan ekonomi yang sangat mencolok antara rakyat biasa dengan para bangsawan",
+        "B. keinginan pemerintah Belanda untuk memerdekaan Indonesia",
+        "C. kesadaran pemuda terpelajar Indonesia untuk merdeka",
+        "D. manifesto politik Perhimpunan Indonesia 1925 di Belanda",
+        "E. keinginan untuk bersatu dalam naungan Negara Indonesia"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 38,
+      "teks_pertanyaan": "Hari lahirnya Sumpah Pemuda yaitu pada tanggal....",
+      "pilihan_jawaban": [
+        "A. 20 Mei 1908",
+        "B. 22 Oktober 1922",
+        "C. 28 Oktober 1928",
+        "D. 13 Oktober 1911",
+        "E. 12 Januari 1926"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 39,
+      "teks_pertanyaan": "Tokoh yang memperjuangkan emansipasi wanita adalah....",
+      "pilihan_jawaban": [
+        "A. Cut Nyak Dien",
+        "B. Cut Mutia",
+        "C. R.A. Kartini",
+        "D. Adit",
+        "E. Cece"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 40,
+      "gambar": "Images/SAS_1/images_SI_12/40.png",
+      "teks_pertanyaan": "Perhatikan gambar berikut !<br>Kumpulan surat-surat beliau disusun dalam sebuah buku yang berjudul ....",
+      "pilihan_jawaban": [
+        "A. Habis Manis Sepah Dibuang",
+        "B. Habis Petang Datang Malam",
+        "C. Habis Gelap Terbitlah Terang",
+        "D. Habis Pagi Siang Menjelang",
+        "E. Perempuan Di Era Penjajahan"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 41,
+      "teks_pertanyaan": "Abil adalah murid kelas XII di SMAIT Al-kautsar. Di waktu luang dia sering menyanyikan lagu Indonesia raya. Pencipta lagu Indonesia Raya adalah ....",
+      "pilihan_jawaban": [
+        "A. W.R. Soepratman",
+        "B. C. Simanjuntak",
+        "C. Muhammad Tabrani",
+        "D. M.H. Thamrin",
+        "E. Chairil Anwar"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 42,
+      "teks_pertanyaan": "Apa singkatan dari PKI?",
+      "pilihan_jawaban": [
+        "A. Partai Komunis Internasional",
+        "B. Partai Kebangkitan Indonesia",
+        "C. Partai Komunis Indonesia",
+        "D. Partai Keadilan Indonesia",
+        "E. Partai Kesejahteraan Indonesia"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 43,
+      "teks_pertanyaan": "Apa ideologi utama yang dianut oleh PKI?",
+      "pilihan_jawaban": [
+        "A. Nasionalisme",
+        "B. Islamisme",
+        "C. Kapitalisme",
+        "D. Komunisme",
+        "E. Liberalis"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 44,
+      "teks_pertanyaan": "PKI di pimpin oleh ...",
+      "pilihan_jawaban": [
+        "A. Soekarno",
+        "B. Andi Aziz",
+        "C. Raymond westerling",
+        "D. Musso",
+        "E. Sekarmadji"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 45,
+      "teks_pertanyaan": "Pusat pemberontakan PKI berada di..",
+      "pilihan_jawaban": [
+        "A. Bandung",
+        "B. Rengasdengklok",
+        "C. Madiun",
+        "D. Bogor",
+        "E. Depok"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 46,
+      "teks_pertanyaan": "APRA dipimpin oleh ..",
+      "pilihan_jawaban": [
+        "A. Soekarno",
+        "B. Andi Aziz",
+        "C. Raymond westerling",
+        "D. Musso",
+        "E. Sekarmadji"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 47,
+      "gambar": "Images/SAS_1/images_SI_12/47.png",
+      "teks_pertanyaan": "Foto berikut ini adalah...",
+      "pilihan_jawaban": [
+        "A. Sekarmadji",
+        "B. Musso",
+        "C. Amir Syarifuddin",
+        "D. Soekarno",
+        "E. Daud Bereuh"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 48,
+      "gambar": "Images/SAS_1/images_SI_12/48.png",
+      "teks_pertanyaan": "Tokoh berikut adalah...",
+      "pilihan_jawaban": [
+        "A. Sekarmadji",
+        "B. Musso",
+        "C. Amir Syarifuddin",
+        "D. Soekarno",
+        "E. Daud Bereuh"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 49,
+      "gambar": "Images/SAS_1/images_SI_12/49.png",
+      "teks_pertanyaan": "Siapakah Nama tokoh Berikut...",
+      "pilihan_jawaban": [
+        "A. Sekarmadji",
+        "B. Musso",
+        "C. Amir Syarifuddin",
+        "D. Soekarno",
+        "E. Daud Bereuh"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 50,
+      "teks_pertanyaan": "Integrasi nasional erat kaitannya dengan semboyan negara Indonesia, yaitu...",
+      "pilihan_jawaban": [
+        "A. Bhinneka Tunggal Ika",
+        "B. Tut Wuri Handayani",
+        "C. Gemah Ripah Loh Jinawi",
+        "D. Maju Tak Gentar",
+        "E. Rajin Pangkal pandai"
+      ],
+      "kunci_jawaban": "A"
+    }
+  ]
+}
