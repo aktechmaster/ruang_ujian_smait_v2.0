@@ -1,0 +1,610 @@
+{
+  "metadata": {
+    "mata_pelajaran": "Fahmul Qur'an",
+    "jenis_ujian": "ASAS",
+    "jumlah_soal": 50,
+    "durasi_menit": 90
+  },
+  "bank_soal": [
+    {
+      "id_soal": 1,
+      "teks_pertanyaan": "Secara bahasa, kata Al-Qur'an berasal dari kata qara'a–yaqra'u–qira'atan yang memiliki arti ....",
+      "pilihan_jawaban": [
+        "A. Menghafal",
+        "B. Membaca",
+        "C. Menulis",
+        "D. Mengajarkan",
+        "E. Mengumpulkan"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 2,
+      "teks_pertanyaan": "Secara istilah, Al-Qur'an adalah kalamullah yang diturunkan kepada Nabi Muhammad saw. melalui perantara ....",
+      "pilihan_jawaban": [
+        "A. Malaikat Mikail",
+        "B. Malaikat Israfil",
+        "C. Malaikat Jibril",
+        "D. Malaikat Malik",
+        "E. Malaikat Ridwan"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 3,
+      "teks_pertanyaan": "Nama Al-Qur'an yang berarti pembeda antara perkara yang benar dan yang batil adalah ....",
+      "pilihan_jawaban": [
+        "A. Al-Kitab",
+        "B. Adz-Dzikr",
+        "C. Al-Huda",
+        "D. Al-Furqan",
+        "E. An-Nur"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 4,
+      "teks_pertanyaan": "Nama Al-Qur'an yang memiliki arti petunjuk bagi manusia adalah ....",
+      "pilihan_jawaban": [
+        "A. Al-Huda",
+        "B. Al-Majid",
+        "C. Al-Karim",
+        "D. Al-Mubin",
+        "E. Al-Busyra"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 5,
+      "teks_pertanyaan": "Al-Qur'an disebut Adz-Dzikr karena memiliki fungsi sebagai ....",
+      "pilihan_jawaban": [
+        "A. Pembeda antara halal dan haram saja",
+        "B. Peringatan dan pelajaran bagi manusia",
+        "C. Kitab sejarah bangsa Arab",
+        "D. Sumber ilmu perdagangan",
+        "E. Bacaan khusus pada bulan Ramadan"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 6,
+      "teks_pertanyaan": "Al-Qur'an pertama kali diturunkan kepada Nabi Muhammad saw. pada bulan ....",
+      "pilihan_jawaban": [
+        "A. Muharram",
+        "B. Rajab",
+        "C. Syawal",
+        "D. Ramadan",
+        "E. Dzulhijjah"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 7,
+      "teks_pertanyaan": "Malam yang menjadi waktu turunnya Al-Qur'an sebagaimana dijelaskan dalam QS. Al-Qadr ayat 1 adalah ....",
+      "pilihan_jawaban": [
+        "A. Malam Nisfu Sya'ban",
+        "B. Malam Jumat",
+        "C. Lailatul Qadr",
+        "D. Malam Idulfitri",
+        "E. Malam Asyura"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 8,
+      "teks_pertanyaan": "Al-Qur'an diturunkan kepada Nabi Muhammad saw. secara bertahap selama ....",
+      "pilihan_jawaban": [
+        "A. 10 tahun",
+        "B. 15 tahun",
+        "C. 20 tahun",
+        "D. 23 tahun",
+        "E. 25 tahun"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 9,
+      "teks_pertanyaan": "Wahyu pertama yang diterima Nabi Muhammad saw. adalah ....",
+      "pilihan_jawaban": [
+        "A. QS. Al-Fatihah ayat 1–7",
+        "B. QS. Al-Baqarah ayat 1–5",
+        "C. QS. Al-'Alaq ayat 1–5",
+        "D. QS. Al-Ikhlas ayat 1–4",
+        "E. QS. Al-Muddatstsir ayat 1–7"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 10,
+      "teks_pertanyaan": "Tempat Nabi Muhammad saw. menerima wahyu pertama adalah ....",
+      "pilihan_jawaban": [
+        "A. Gua Tsur",
+        "B. Gua Hira",
+        "C. Masjid Nabawi",
+        "D. Jabal Uhud",
+        "E. Padang Arafah"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 11,
+      "teks_pertanyaan": "Periode turunnya ayat Al-Qur'an sebelum Nabi Muhammad saw. hijrah ke Madinah disebut ....",
+      "pilihan_jawaban": [
+        "A. Madaniyah",
+        "B. Israiliyah",
+        "C. Makkiyah",
+        "D. Jahiliyah",
+        "E. Hijriyah"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 12,
+      "teks_pertanyaan": "Periode turunnya ayat Al-Qur'an setelah Nabi Muhammad saw. hijrah ke Madinah disebut ....",
+      "pilihan_jawaban": [
+        "A. Makkiyah",
+        "B. Madaniyah",
+        "C. Quraisy",
+        "D. Jahiliyah",
+        "E. Nubuwwah"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 13,
+      "teks_pertanyaan": "Salah satu karakteristik utama ayat Makkiyah adalah membahas tentang ....",
+      "pilihan_jawaban": [
+        "A. Sistem pemerintahan secara terperinci",
+        "B. Hukum waris",
+        "C. Hukum pernikahan",
+        "D. Tauhid dan keimanan",
+        "E. Hubungan internasional"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 14,
+      "teks_pertanyaan": "Ayat Madaniyah pada umumnya lebih banyak membahas tentang ....",
+      "pilihan_jawaban": [
+        "A. Kisah penciptaan alam saja",
+        "B. Hukum syariat dan kehidupan sosial",
+        "C. Keadaan kaum Quraisy saja",
+        "D. Keindahan alam semesta",
+        "E. Sejarah bangsa terdahulu saja"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 15,
+      "teks_pertanyaan": "Salah satu contoh surah yang termasuk golongan Madaniyah adalah ....",
+      "pilihan_jawaban": [
+        "A. Al-Ikhlas",
+        "B. Al-Falaq",
+        "C. Al-Lahab",
+        "D. Al-Baqarah",
+        "E. Al-Kautsar"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 16,
+      "teks_pertanyaan": "Wahyu merupakan bentuk komunikasi Allah Swt. kepada para nabi dengan cara ....",
+      "pilihan_jawaban": [
+        "A. Melalui pemikiran manusia biasa",
+        "B. Melalui usaha dan penelitian",
+        "C. Tertentu yang tidak dapat dicapai manusia melalui usaha biasa",
+        "D. Melalui mimpi setiap manusia",
+        "E. Melalui perkataan para ulama"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 17,
+      "teks_pertanyaan": "Salah satu cara Allah berkomunikasi dengan manusia sebagaimana dijelaskan dalam QS. Asy-Syura ayat 51 adalah ....",
+      "pilihan_jawaban": [
+        "A. Melalui permainan",
+        "B. Melalui wahyu",
+        "C. Melalui perdagangan",
+        "D. Melalui perdebatan",
+        "E. Melalui perjalanan"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 18,
+      "teks_pertanyaan": "Malaikat yang bertugas menyampaikan wahyu kepada Nabi Muhammad saw. adalah ....",
+      "pilihan_jawaban": [
+        "A. Mikail",
+        "B. Israfil",
+        "C. Izrail",
+        "D. Jibril",
+        "E. Malik"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 19,
+      "teks_pertanyaan": "Secara bahasa, istilah Asbabun Nuzul terdiri atas kata Asbab dan Nuzul. Kata Asbab berarti ....",
+      "pilihan_jawaban": [
+        "A. Ayat-ayat",
+        "B. Sebab-sebab",
+        "C. Hukum-hukum",
+        "D. Petunjuk-petunjuk",
+        "E. Penjelasan"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 20,
+      "teks_pertanyaan": "Secara istilah, Asbabun Nuzul adalah ....",
+      "pilihan_jawaban": [
+        "A. Ilmu membaca Al-Qur'an dengan tajwid",
+        "B. Sejarah penulisan mushaf Al-Qur'an",
+        "C. Peristiwa atau pertanyaan yang menjadi sebab turunnya ayat Al-Qur'an",
+        "D. Ilmu tentang pembagian warisan",
+        "E. Ilmu tentang jumlah ayat Al-Qur'an"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 21,
+      "teks_pertanyaan": "QS. Al-Mujadilah ayat 1 berkaitan dengan peristiwa yang dialami oleh seorang perempuan bernama ....",
+      "pilihan_jawaban": [
+        "A. Aisyah binti Abu Bakar",
+        "B. Fatimah az-Zahra",
+        "C. Khadijah binti Khuwailid",
+        "D. Khaulah binti Tsa'labah",
+        "E. Ummu Salamah"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 22,
+      "teks_pertanyaan": "QS. Al-Baqarah ayat 158 menjelaskan tentang ....",
+      "pilihan_jawaban": [
+        "A. Perintah berpuasa",
+        "B. Sa'i antara Shafa dan Marwah",
+        "C. Larangan riba",
+        "D. Kewajiban zakat",
+        "E. Perintah berhaji"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 23,
+      "teks_pertanyaan": "QS. Al-Baqarah ayat 275 menjelaskan tentang ....",
+      "pilihan_jawaban": [
+        "A. Larangan mencuri",
+        "B. Kewajiban zakat",
+        "C. Pengharaman riba dan kehalalan jual beli",
+        "D. Perintah melaksanakan haji",
+        "E. Larangan berbuat zalim kepada orang tua"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 24,
+      "teks_pertanyaan": "Salah satu sumber utama untuk mengetahui Asbabun Nuzul adalah ....",
+      "pilihan_jawaban": [
+        "A. Cerita masyarakat tanpa bukti",
+        "B. Pendapat pribadi",
+        "C. Riwayat sahih dari Nabi dan sahabat",
+        "D. Dugaan berdasarkan keadaan sekarang",
+        "E. Pendapat orang yang tidak mengetahui sejarah"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 25,
+      "teks_pertanyaan": "Salah satu hikmah mempelajari Asbabun Nuzul adalah ....",
+      "pilihan_jawaban": [
+        "A. Mengubah isi ayat Al-Qur'an",
+        "B. Mengurangi jumlah ayat Al-Qur'an",
+        "C. Memahami latar belakang dan maksud turunnya ayat",
+        "D. Menentukan ayat berdasarkan keinginan sendiri",
+        "E. Menghilangkan hukum yang telah ditetapkan Allah"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 26,
+      "teks_pertanyaan": "Al-Qur'an memiliki nama Al-Furqan yang berarti pembeda antara kebenaran dan kebatilan. Dalam kehidupan sehari-hari, fungsi tersebut dapat diterapkan dengan cara ....",
+      "pilihan_jawaban": [
+        "A. Mengikuti semua kebiasaan masyarakat tanpa mempertimbangkan hukumnya",
+        "B. Menilai setiap perbuatan berdasarkan kepentingan pribadi",
+        "C. Menjadikan Al-Qur'an sebagai pedoman untuk membedakan perilaku yang benar dan salah",
+        "D. Mengutamakan pendapat teman daripada ajaran agama",
+        "E. Menghindari seluruh perkembangan ilmu pengetahuan"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 27,
+      "teks_pertanyaan": "Al-Qur'an diturunkan secara bertahap selama 23 tahun, yaitu sekitar 13 tahun di Makkah dan 10 tahun di Madinah. Pembagian tersebut menunjukkan bahwa ....",
+      "pilihan_jawaban": [
+        "A. Al-Qur'an hanya diturunkan ketika Nabi berada di Makkah dan Madinah",
+        "B. Turunnya Al-Qur'an mengikuti perkembangan dakwah dan kehidupan umat Islam",
+        "C. Seluruh ayat Al-Qur'an turun dalam waktu yang sama",
+        "D. Periode Madinah lebih panjang daripada periode Makkah",
+        "E. Al-Qur'an diturunkan berdasarkan keinginan manusia"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 28,
+      "teks_pertanyaan": "Orang-orang kafir pernah mempertanyakan mengapa Al-Qur'an tidak diturunkan sekaligus. Jawaban Allah terhadap pertanyaan tersebut dijelaskan dalam QS. Al-Furqan ayat 32, yaitu ....",
+      "pilihan_jawaban": [
+        "A. Agar manusia bebas menentukan hukum sendiri",
+        "B. Agar Rasulullah memiliki waktu untuk meninggalkan dakwah",
+        "C. Untuk meneguhkan hati Rasulullah dan membacakannya secara teratur",
+        "D. Agar Al-Qur'an hanya dipahami oleh bangsa Arab",
+        "E. Untuk membatasi penyebaran ajaran Islam"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 29,
+      "teks_pertanyaan": "Seorang siswa mempelajari ayat-ayat Makkiyah dan menemukan bahwa sebagian besar ayat tersebut membahas keesaan Allah, hari kiamat, serta kisah para nabi. Hal tersebut menunjukkan bahwa ....",
+      "pilihan_jawaban": [
+        "A. Masyarakat Makkah telah memiliki sistem pemerintahan Islam",
+        "B. Dakwah pada periode Makkah lebih menekankan penguatan akidah dan keimanan",
+        "C. Ayat Makkiyah hanya membahas persoalan perdagangan",
+        "D. Masyarakat Makkah telah menerapkan seluruh hukum Islam",
+        "E. Dakwah Nabi pada periode Makkah hanya ditujukan kepada orang beriman"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 30,
+      "teks_pertanyaan": "Perbedaan utama antara ayat Makkiyah dan Madaniyah menurut pendapat yang paling kuat adalah ....",
+      "pilihan_jawaban": [
+        "A. Panjang dan pendeknya ayat",
+        "B. Bahasa yang digunakan dalam ayat",
+        "C. Waktu turunnya ayat sebelum atau sesudah hijrah",
+        "D. Jumlah ayat dalam setiap surah",
+        "E. Tempat Nabi Muhammad saw. membacakan ayat"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 31,
+      "teks_pertanyaan": "Perhatikan beberapa karakteristik berikut!<br>1. Membahas hukum keluarga dan muamalah.<br>2. Menekankan keimanan kepada hari akhir.<br>3. Banyak menggunakan seruan Yā ayyuhalladzīna āmanū.<br>4. Membahas kisah nabi-nabi terdahulu.<br>5. Menjelaskan aturan kehidupan masyarakat Islam.<br><br>Karakteristik ayat Madaniyah ditunjukkan oleh nomor ....",
+      "pilihan_jawaban": [
+        "A. 1, 2, dan 3",
+        "B. 1, 3, dan 5",
+        "C. 2, 3, dan 4",
+        "D. 2, 4, dan 5",
+        "E. 1, 4, dan 5"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 32,
+      "teks_pertanyaan": "Sebelum menerima wahyu secara langsung melalui Malaikat Jibril, Nabi Muhammad saw. terlebih dahulu mengalami wahyu dalam bentuk ....",
+      "pilihan_jawaban": [
+        "A. Perjalanan ke Madinah",
+        "B. Mimpi yang benar",
+        "C. Percakapan dengan para sahabat",
+        "D. Penglihatan terhadap alam semesta",
+        "E. Pembacaan kitab-kitab terdahulu"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 33,
+      "teks_pertanyaan": "Dalam proses turunnya wahyu, terdapat bentuk penyampaian yang dirasakan Nabi Muhammad saw. seperti suara lonceng. Bentuk wahyu tersebut dikenal sebagai ....",
+      "pilihan_jawaban": [
+        "A. Ru'yah shadiqah",
+        "B. Ilham",
+        "C. Shalshalah al-jaras",
+        "D. Al-inzal al-jumli",
+        "E. Al-tanzil al-munajjam"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 34,
+      "teks_pertanyaan": "Pada peristiwa Isra Mi'raj, Rasulullah saw. menerima perintah salat secara langsung dari Allah Swt. Peristiwa tersebut menunjukkan bentuk komunikasi Allah melalui ....",
+      "pilihan_jawaban": [
+        "A. Malaikat Mikail",
+        "B. Malaikat Israfil",
+        "C. Malaikat Jibril",
+        "D. Balik hijab",
+        "E. Mimpi yang benar"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 35,
+      "teks_pertanyaan": "Perhatikan pernyataan berikut!<br>1. Memudahkan umat menghafal Al-Qur'an.<br>2. Menjawab persoalan yang dihadapi umat.<br>3. Meneguhkan hati Rasulullah saw.<br>4. Menghindarkan manusia dari kewajiban beribadah.<br>5. Menyesuaikan penetapan hukum dengan kesiapan masyarakat.<br><br>Hikmah turunnya Al-Qur'an secara bertahap ditunjukkan oleh nomor ....",
+      "pilihan_jawaban": [
+        "A. 1, 2, 3, dan 5",
+        "B. 1, 2, 4, dan 5",
+        "C. 1, 3, 4, dan 5",
+        "D. 2, 3, 4, dan 5",
+        "E. 1, 2, 3, dan 4"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 36,
+      "teks_pertanyaan": "Dalam sejarah penetapan hukum Islam, larangan mengonsumsi khamr berlangsung secara bertahap. Hal ini merupakan contoh penerapan ....",
+      "pilihan_jawaban": [
+        "A. Nasikh dan mansukh",
+        "B. Tadarruj fi at-tasyri'",
+        "C. Ijma' ulama",
+        "D. Qiyas",
+        "E. Ijtihad sahabat"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 37,
+      "teks_pertanyaan": "QS. Al-Mujadilah ayat 1 turun berkaitan dengan pengaduan Khaulah binti Tsa'labah mengenai tindakan zhihar suaminya. Dari peristiwa tersebut dapat dipahami bahwa Asbabun Nuzul berfungsi untuk ....",
+      "pilihan_jawaban": [
+        "A. Menghilangkan seluruh hukum yang telah ditetapkan",
+        "B. Menjelaskan latar belakang turunnya ayat dan penyelesaian suatu persoalan",
+        "C. Mengubah ayat sesuai perkembangan masyarakat",
+        "D. Menentukan jumlah ayat dalam sebuah surah",
+        "E. Menggantikan kedudukan hadis Rasulullah"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 38,
+      "teks_pertanyaan": "Ketika sebagian sahabat merasa ragu melakukan sa'i antara Shafa dan Marwah karena dahulu tempat tersebut berkaitan dengan tradisi jahiliyah, turunlah QS. Al-Baqarah ayat 158. Pelajaran dari peristiwa tersebut adalah ....",
+      "pilihan_jawaban": [
+        "A. Semua tradisi masyarakat harus ditinggalkan tanpa pengecualian",
+        "B. Ibadah tidak boleh dilakukan di tempat yang pernah digunakan untuk kemusyrikan",
+        "C. Asbabun Nuzul membantu menjelaskan makna suatu ayat agar tidak terjadi kesalahpahaman",
+        "D. Setiap ayat Al-Qur'an hanya berlaku bagi orang yang mengalami peristiwa turunnya",
+        "E. Sejarah masyarakat tidak memiliki hubungan dengan penafsiran Al-Qur'an"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 39,
+      "teks_pertanyaan": "Dalam mempelajari Asbabun Nuzul, seorang siswa menemukan informasi tentang sebab turunnya ayat dari cerita yang tidak memiliki sumber riwayat. Sikap yang tepat adalah ....",
+      "pilihan_jawaban": [
+        "A. Langsung mempercayainya karena disampaikan secara turun-temurun",
+        "B. Menganggap semua cerita sebagai sumber hukum",
+        "C. Menggunakannya jika sesuai dengan pendapat pribadi",
+        "D. Memeriksa kebenaran riwayat dan tidak menetapkan sebab turunnya ayat berdasarkan dugaan",
+        "E. Menyebarkannya agar diketahui banyak orang"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 40,
+      "teks_pertanyaan": "Peristiwa pertanyaan tentang hakikat ruh yang dijawab melalui QS. Al-Isra' ayat 85 mengajarkan bahwa ....",
+      "pilihan_jawaban": [
+        "A. Semua persoalan manusia dapat diketahui secara sempurna",
+        "B. Manusia tidak perlu mempelajari ilmu pengetahuan",
+        "C. Pengetahuan manusia memiliki keterbatasan dan hakikat ruh sepenuhnya diketahui Allah",
+        "D. Pertanyaan tentang kehidupan tidak diperbolehkan dalam Islam",
+        "E. Manusia memiliki pengetahuan yang sama dengan Allah"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 41,
+      "teks_pertanyaan": "Seorang peneliti menemukan ayat Al-Qur'an yang turun ketika Nabi Muhammad saw. sedang berada di luar Kota Makkah, tetapi peristiwa tersebut terjadi sebelum hijrah ke Madinah. Berdasarkan kaidah penentuan Makkiyah dan Madaniyah yang paling kuat, ayat tersebut dikategorikan sebagai ....",
+      "pilihan_jawaban": [
+        "A. Madaniyah karena tempat turunnya di luar Makkah",
+        "B. Makkiyah karena turun sebelum peristiwa hijrah",
+        "C. Madaniyah karena Nabi telah menerima wahyu",
+        "D. Makkiyah hanya jika turun di dalam Gua Hira",
+        "E. Tidak dapat dikategorikan sebagai Makkiyah maupun Madaniyah"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 42,
+      "teks_pertanyaan": "Perhatikan pernyataan berikut!<br>1. Al-Qur'an diturunkan dari Lauh Mahfuz ke Baitul 'Izzah.<br>2. Al-Qur'an diturunkan pada malam Lailatul Qadr.<br>3. Al-Qur'an diturunkan kepada Nabi Muhammad saw. melalui Malaikat Jibril selama 23 tahun.<br>4. Al-Qur'an diturunkan seluruhnya kepada Nabi Muhammad saw. dalam satu malam.<br><br>Berdasarkan pembagian tahapan turunnya Al-Qur'an dalam materi, pernyataan yang tepat adalah ....",
+      "pilihan_jawaban": [
+        "A. 1 dan 2 saja",
+        "B. 2 dan 4 saja",
+        "C. 1, 2, dan 3",
+        "D. 1, 3, dan 4",
+        "E. 1, 2, 3, dan 4"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 43,
+      "teks_pertanyaan": "Dalam suatu diskusi, seorang siswa menyatakan bahwa ayat yang turun karena peristiwa tertentu hanya berlaku untuk orang-orang yang mengalami peristiwa tersebut. Pernyataan tersebut kurang tepat apabila dikaitkan dengan kaidah ....",
+      "pilihan_jawaban": [
+        "A. Al-umuru bi maqashidiha",
+        "B. Al-'ibrah bi 'umum al-lafzh, la bi khushush as-sabab",
+        "C. Al-yaqin la yuzalu bisy-syakk",
+        "D. Al-masyaqqah tajlibut taisir",
+        "E. Al-'adah muhakkamah"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 44,
+      "teks_pertanyaan": "Perhatikan kasus berikut!<br>Pada masa Rasulullah saw., terdapat orang-orang yang menyamakan riba dengan jual beli karena keduanya dianggap menghasilkan keuntungan. Allah kemudian menurunkan QS. Al-Baqarah ayat 275 yang menegaskan bahwa jual beli halal dan riba haram.<br><br>Berdasarkan kasus tersebut, fungsi Asbabun Nuzul yang paling tepat adalah ....",
+      "pilihan_jawaban": [
+        "A. Mengubah ketentuan halal dan haram berdasarkan kepentingan ekonomi",
+        "B. Menjelaskan konteks permasalahan sekaligus mempertegas ketentuan hukum Allah",
+        "C. Membatasi larangan riba hanya untuk masyarakat Madinah",
+        "D. Membuktikan bahwa seluruh transaksi perdagangan dilarang",
+        "E. Menghapus semua praktik ekonomi yang menghasilkan keuntungan"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 45,
+      "teks_pertanyaan": "Seorang siswa membandingkan karakteristik ayat Makkiyah dan Madaniyah. Ia menemukan bahwa ayat Makkiyah umumnya pendek dan kuat, sedangkan ayat Madaniyah cenderung lebih panjang dan terperinci. Kesimpulan yang paling tepat dari perbedaan tersebut adalah ....",
+      "pilihan_jawaban": [
+        "A. Panjang pendeknya ayat merupakan satu-satunya dasar penentuan Makkiyah dan Madaniyah",
+        "B. Perbedaan gaya bahasa berkaitan dengan tema dan kebutuhan dakwah pada setiap periode",
+        "C. Ayat Madaniyah memiliki kedudukan lebih tinggi daripada ayat Makkiyah",
+        "D. Ayat Makkiyah tidak mengandung hukum, sedangkan ayat Madaniyah tidak mengandung akidah",
+        "E. Semua ayat yang pendek pasti Makkiyah dan semua ayat panjang pasti Madaniyah"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 46,
+      "teks_pertanyaan": "Perhatikan beberapa pernyataan berikut!<br>1. Riwayat sahih dari Nabi Muhammad saw.<br>2. Riwayat sahabat yang menyaksikan turunnya ayat.<br>3. Pendapat pribadi berdasarkan perkiraan.<br>4. Cerita masyarakat tanpa bukti yang jelas.<br>5. Keterangan dari orang yang mengetahui peristiwa turunnya wahyu melalui riwayat yang dapat dipercaya.<br><br>Berdasarkan prinsip keilmuan Asbabun Nuzul, sumber yang dapat dijadikan dasar adalah ....",
+      "pilihan_jawaban": [
+        "A. 1, 2, dan 5",
+        "B. 1, 3, dan 4",
+        "C. 2, 3, dan 5",
+        "D. 1, 2, dan 4",
+        "E. 3, 4, dan 5"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 47,
+      "teks_pertanyaan": "Dalam sejarah turunnya Al-Qur'an, terdapat beberapa tahapan pengharaman khamr. Tahapan tersebut memperlihatkan metode pendidikan Al-Qur'an yang memperhatikan kesiapan masyarakat. Nilai pendidikan yang paling tepat dari proses tersebut adalah ....",
+      "pilihan_jawaban": [
+        "A. Hukum agama dapat diabaikan jika masyarakat belum siap",
+        "B. Perubahan perilaku masyarakat harus dilakukan dengan proses pendidikan yang terarah dan bertahap",
+        "C. Setiap hukum Islam harus ditunda tanpa batas waktu",
+        "D. Masyarakat bebas menentukan hukum sesuai kebiasaan",
+        "E. Semua larangan agama hanya berlaku bagi masyarakat terdahulu"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 48,
+      "teks_pertanyaan": "Seorang mufasir menemukan ayat yang turun karena kasus tertentu. Setelah meneliti lafaz ayat, ia menyimpulkan bahwa ketentuan yang terkandung di dalamnya berlaku untuk semua orang yang mengalami kondisi serupa, bukan hanya orang yang terlibat dalam peristiwa awal. Kesimpulan mufasir tersebut sesuai dengan prinsip ....",
+      "pilihan_jawaban": [
+        "A. Semua ayat harus dipahami berdasarkan tempat turunnya",
+        "B. Sebab turunnya ayat lebih penting daripada kandungan lafaznya",
+        "C. Keumuman lafaz ayat menjadi pertimbangan dalam mengambil pelajaran hukum",
+        "D. Hukum ayat hanya berlaku untuk generasi sahabat",
+        "E. Setiap ayat memiliki sebab turun yang sama"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 49,
+      "teks_pertanyaan": "Perhatikan pernyataan berikut mengenai tahapan turunnya Al-Qur'an!<br>1. Tahap pertama dikenal dengan istilah al-inzal al-jumli.<br>2. Tahap pertama berlangsung dari Lauh Mahfuz ke Baitul 'Izzah.<br>3. Tahap kedua dikenal dengan istilah at-tanzil al-munajjam.<br>4. Tahap kedua berlangsung secara bertahap melalui Malaikat Jibril kepada Nabi Muhammad saw.<br>5. Kedua tahap tersebut berlangsung selama 23 tahun.<br><br>Pernyataan yang benar adalah ....",
+      "pilihan_jawaban": [
+        "A. 1, 2, dan 3",
+        "B. 1, 2, dan 4",
+        "C. 2, 3, dan 5",
+        "D. 1, 3, 4, dan 5",
+        "E. 1, 2, 3, dan 4"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 50,
+      "teks_pertanyaan": "Seorang siswa mempelajari peristiwa turunnya QS. Al-Baqarah ayat 115 dan QS. Al-Baqarah ayat 144. Ia mengetahui bahwa ayat 115 berkaitan dengan persoalan arah kiblat sebelum adanya ketentuan menghadap Ka'bah, sedangkan ayat 144 memerintahkan kaum muslimin menghadap Masjidil Haram. Berdasarkan informasi tersebut, pemahaman yang paling tepat adalah ....",
+      "pilihan_jawaban": [
+        "A. Semua ayat yang turun lebih dahulu otomatis tidak berlaku",
+        "B. Asbabun Nuzul membantu memahami konteks hukum dan kaitannya dengan pembahasan nasikh-mansukh",
+        "C. Ayat 115 dan 144 tidak memiliki hubungan dalam pembahasan hukum",
+        "D. Perubahan arah kiblat menunjukkan bahwa Al-Qur'an tidak memiliki ketentuan yang tetap",
+        "E. Ayat 144 hanya berlaku bagi masyarakat Madinah"
+      ],
+      "kunci_jawaban": "B"
+    }
+  ]
+}
