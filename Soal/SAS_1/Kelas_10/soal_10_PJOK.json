@@ -1,0 +1,611 @@
+{
+  "metadata": {
+    "mata_pelajaran": "PJOK",
+    "jenis_ujian": "SAS_1",
+    "jumlah_soal": 50,
+    "durasi_menit": 80
+  },
+  "bank_soal": [
+    {
+      "id_soal": 1,
+      "teks_pertanyaan": "Tolak peluru merupakan salah satu cabang olahraga atletik yang termasuk nomor ....",
+      "pilihan_jawaban": [
+        "A. Lari jarak pendek",
+        "B. Lompat",
+        "C. Lempar",
+        "D. Jalan cepat",
+        "E. Lari jarak menengah"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 2,
+      "teks_pertanyaan": "Tujuan utama dalam olahraga tolak peluru adalah ....",
+      "pilihan_jawaban": [
+        "A. Melempar peluru setinggi mungkin",
+        "B. Menolak peluru sejauh mungkin dengan teknik yang benar",
+        "C. Mengangkat peluru selama mungkin",
+        "D. Memukul peluru agar melambung",
+        "E. Membawa peluru sambil berlari"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 3,
+      "teks_pertanyaan": "Alat utama yang digunakan dalam olahraga tolak peluru adalah ....",
+      "pilihan_jawaban": [
+        "A. Bola karet",
+        "B. Kelereng",
+        "C. Cakram",
+        "D. Peluru berbentuk bola yang terbuat dari logam",
+        "E. Lembing"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 4,
+      "teks_pertanyaan": "Dalam olahraga tolak peluru, peluru tidak boleh dilempar, tetapi harus ....",
+      "pilihan_jawaban": [
+        "A. Dipukul",
+        "B. Diayunkan",
+        "C. Ditendang",
+        "D. Dilambungkan",
+        "E. Ditolak atau didorong dari bahu"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 5,
+      "teks_pertanyaan": "Posisi peluru yang benar sebelum melakukan tolakan adalah ....",
+      "pilihan_jawaban": [
+        "A. Di atas kepala",
+        "B. Di depan dada dengan kedua tangan",
+        "C. Menempel pada leher atau dekat dagu di bawah telinga",
+        "D. Di belakang punggung",
+        "E. Di pinggang"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 6,
+      "teks_pertanyaan": "Salah satu gaya yang sering digunakan dalam olahraga tolak peluru adalah gaya ....",
+      "pilihan_jawaban": [
+        "A. Fosbury flop",
+        "B. O'Brien (glide)",
+        "C. Gunting",
+        "D. Jongkok",
+        "E. Straddle"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 7,
+      "teks_pertanyaan": "Gaya O'Brien dalam tolak peluru dikenal juga dengan istilah ....",
+      "pilihan_jawaban": [
+        "A. Gaya berjalan",
+        "B. Gaya melayang",
+        "C. Gaya memutar",
+        "D. Gaya membelakangi",
+        "E. Gaya jongkok"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 8,
+      "teks_pertanyaan": "Dalam melakukan tolakan, tenaga utama sebaiknya berasal dari ....",
+      "pilihan_jawaban": [
+        "A. Jari-jari tangan saja",
+        "B. Pergelangan tangan saja",
+        "C. Kekuatan lengan saja",
+        "D. Koordinasi kaki, pinggul, badan, dan lengan",
+        "E. Gerakan kepala"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 9,
+      "teks_pertanyaan": "Berat peluru standar untuk kategori putra adalah ....",
+      "pilihan_jawaban": [
+        "A. 3 kg",
+        "B. 4 kg",
+        "C. 5 kg",
+        "D. 6 kg",
+        "E. 100 kg"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 10,
+      "teks_pertanyaan": "Berat peluru standar untuk kategori putri adalah ....",
+      "pilihan_jawaban": [
+        "A. 2 kg",
+        "B. 3 kg",
+        "C. 4 kg",
+        "D. 5 kg",
+        "E. 600 kg"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 11,
+      "teks_pertanyaan": "Tolakan dinyatakan sah apabila peluru jatuh ....",
+      "pilihan_jawaban": [
+        "A. Di luar sektor pendaratan",
+        "B. Di dalam sektor pendaratan yang telah ditentukan",
+        "C. Di belakang atlet",
+        "D. Di samping lingkaran",
+        "E. Di luar lapangan"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 12,
+      "teks_pertanyaan": "Atlet dinyatakan melakukan pelanggaran (foul) apabila ....",
+      "pilihan_jawaban": [
+        "A. Peluru jatuh di dalam sektor",
+        "B. Atlet melakukan tolakan dengan satu tangan",
+        "C. Atlet menggunakan tenaga dari kaki",
+        "D. Atlet keluar dari lingkaran sebelum peluru mendarat",
+        "E. Atlet menolak peluru dengan kuat"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 13,
+      "teks_pertanyaan": "Salah satu manfaat latihan tolak peluru bagi kondisi fisik adalah meningkatkan ....",
+      "pilihan_jawaban": [
+        "A. Kelenturan mata",
+        "B. Kekuatan otot dan koordinasi tubuh",
+        "C. Kemampuan menyanyi",
+        "D. Kecepatan membaca",
+        "E. Keseimbangan emosi saja"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 14,
+      "teks_pertanyaan": "Sikap yang harus diterapkan saat mengikuti latihan tolak peluru adalah ....",
+      "pilihan_jawaban": [
+        "A. Mengabaikan instruksi guru",
+        "B. Bercanda ketika teman melakukan tolakan",
+        "C. Mengutamakan keselamatan dan disiplin",
+        "D. Mengambil peluru saat teman melempar",
+        "E. Berdiri di sektor pendaratan"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 15,
+      "teks_pertanyaan": "Nilai sportivitas dalam olahraga tolak peluru dapat ditunjukkan dengan cara ....",
+      "pilihan_jawaban": [
+        "A. Memprotes setiap keputusan wasit",
+        "B. Mengganggu konsentrasi lawan",
+        "C. Mengubah hasil pengukuran",
+        "D. Menolak mengakui kekalahan",
+        "E. Menghormati lawan dan menerima hasil pertandingan"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 16,
+      "teks_pertanyaan": "Sebelum melakukan olahraga tolak peluru, sebaiknya atlet melakukan ....",
+      "pilihan_jawaban": [
+        "A. Pendinginan",
+        "B. Tidur sejenak",
+        "C. Pemanasan",
+        "D. Makan berat",
+        "E. Istirahat panjang"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 17,
+      "teks_pertanyaan": "Dalam melakukan tolak peluru, tangan yang digunakan untuk menolak peluru adalah ....",
+      "pilihan_jawaban": [
+        "A. Kedua tangan secara bersamaan",
+        "B. Tangan yang paling kuat atau dominan",
+        "C. Kedua tangan secara bergantian",
+        "D. Tangan yang berada di belakang badan",
+        "E. Tangan yang tidak dominan saja"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 18,
+      "teks_pertanyaan": "Posisi tubuh yang baik ketika memegang peluru adalah ....",
+      "pilihan_jawaban": [
+        "A. Tubuh dalam keadaan siap dan seimbang",
+        "B. Tubuh membungkuk sepenuhnya",
+        "C. Kedua kaki dirapatkan tanpa keseimbangan",
+        "D. Tubuh menghadap ke bawah",
+        "E. Tubuh dalam posisi duduk"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 19,
+      "teks_pertanyaan": "Peluru dalam olahraga tolak peluru harus memiliki bentuk ....",
+      "pilihan_jawaban": [
+        "A. Kubus",
+        "B. Tabung",
+        "C. Kerucut",
+        "D. Bola",
+        "E. Balok"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 20,
+      "teks_pertanyaan": "Berikut ini yang termasuk unsur kondisi fisik paling dibutuhkan dalam olahraga tolak peluru adalah ....",
+      "pilihan_jawaban": [
+        "A. Kekuatan otot lengan dan bahu",
+        "B. Kecepatan mengetik",
+        "C. Ketajaman pendengaran",
+        "D. Daya tahan mata",
+        "E. Kemampuan berbicara"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 21,
+      "teks_pertanyaan": "Jika seorang atlet melakukan tolakan dan peluru jatuh di luar garis sektor pendaratan, maka tolakan tersebut dinyatakan ....",
+      "pilihan_jawaban": [
+        "A. Berhasil",
+        "B. Sah",
+        "C. Mendapat tambahan nilai",
+        "D. Diulang otomatis",
+        "E. Tidak sah"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 22,
+      "teks_pertanyaan": "Sikap yang tepat ketika teman sedang melakukan latihan tolak peluru adalah ....",
+      "pilihan_jawaban": [
+        "A. Berdiri di depan arah tolakan",
+        "B. Mengambil peluru ketika teman bersiap",
+        "C. Menunggu di tempat aman dan memperhatikan instruksi guru",
+        "D. Berlari melintasi sektor pendaratan",
+        "E. Mengganggu konsentrasi teman"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 23,
+      "teks_pertanyaan": "Berikut ini yang merupakan contoh pola hidup sehat untuk menjaga kebugaran jasmani adalah ....",
+      "pilihan_jawaban": [
+        "A. Begadang setiap malam",
+        "B. Jarang melakukan aktivitas fisik",
+        "C. Mengonsumsi makanan secara berlebihan",
+        "D. Tidak memperhatikan waktu istirahat",
+        "E. Berolahraga secara teratur dan mengonsumsi makanan bergizi"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 24,
+      "teks_pertanyaan": "Setelah selesai melakukan aktivitas olahraga, sebaiknya seseorang melakukan ....",
+      "pilihan_jawaban": [
+        "A. Pemanasan",
+        "B. Pendinginan",
+        "C. Lari cepat",
+        "D. Latihan beban berat",
+        "E. Aktivitas berat lainnya"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 25,
+      "teks_pertanyaan": "Sebelum melakukan aktivitas olahraga, seseorang sebaiknya melakukan pemanasan dengan tujuan ....",
+      "pilihan_jawaban": [
+        "A. Membuat tubuh cepat lelah",
+        "B. Mengurangi suhu tubuh",
+        "C. Mempersiapkan otot dan tubuh sebelum berolahraga",
+        "D. Menghentikan aliran darah",
+        "E. Mengurangi kemampuan bergerak"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 26,
+      "teks_pertanyaan": "Salah satu contoh perilaku hidup sehat adalah ....",
+      "pilihan_jawaban": [
+        "A. Begadang setiap malam",
+        "B. Mengonsumsi makanan cepat saji setiap hari",
+        "C. Berolahraga secara teratur",
+        "D. Jarang minum air putih",
+        "E. Mengabaikan kebersihan diri"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 27,
+      "teks_pertanyaan": "Salah satu dampak jika seseorang jarang melakukan aktivitas fisik adalah ....",
+      "pilihan_jawaban": [
+        "A. Tubuh semakin kuat",
+        "B. Daya tahan tubuh meningkat",
+        "C. Tubuh mudah lelah dan kurang bugar",
+        "D. Otot semakin kuat",
+        "E. Konsentrasi selalu meningkat"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 28,
+      "teks_pertanyaan": "Kurangnya aktivitas olahraga dalam jangka panjang dapat meningkatkan risiko ....",
+      "pilihan_jawaban": [
+        "A. Kesehatan jantung semakin baik",
+        "B. Penyakit jantung dan pembuluh darah",
+        "C. Kekuatan otot meningkat",
+        "D. Daya tahan tubuh bertambah",
+        "E. Kelincahan tubuh meningkat"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 29,
+      "teks_pertanyaan": "Seseorang yang tidak menjaga kebugaran jasmani biasanya akan mengalami ....",
+      "pilihan_jawaban": [
+        "A. Peningkatan stamina",
+        "B. Peningkatan kekuatan otot",
+        "C. Gerakan tubuh semakin lincah",
+        "D. Penurunan daya tahan fisik",
+        "E. Peningkatan kemampuan olahraga"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 30,
+      "teks_pertanyaan": "Kurangnya aktivitas fisik dan kebiasaan makan berlebihan dapat meningkatkan risiko ....",
+      "pilihan_jawaban": [
+        "A. Obesitas",
+        "B. Kelentukan tubuh",
+        "C. Kekuatan otot",
+        "D. Kecepatan berlari",
+        "E. Keseimbangan tubuh"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 31,
+      "teks_pertanyaan": "Dampak kurang menjaga kebugaran jasmani terhadap kegiatan belajar di sekolah adalah ....",
+      "pilihan_jawaban": [
+        "A. Semakin mudah memahami pelajaran",
+        "B. Konsentrasi selalu meningkat",
+        "C. Tidak membutuhkan istirahat",
+        "D. Semangat belajar selalu bertambah",
+        "E. Mudah lelah dan sulit berkonsentrasi"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 32,
+      "teks_pertanyaan": "Kurangnya aktivitas fisik dapat menyebabkan tubuh menjadi ....",
+      "pilihan_jawaban": [
+        "A. Lebih aktif",
+        "B. Lebih produktif",
+        "C. Kurang bertenaga dan kurang aktif",
+        "D. Lebih kuat",
+        "E. Lebih tahan terhadap penyakit"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 33,
+      "teks_pertanyaan": "Salah satu dampak tidak menjaga kebugaran jasmani terhadap kesehatan mental adalah ....",
+      "pilihan_jawaban": [
+        "A. Selalu merasa bahagia",
+        "B. Konsentrasi meningkat secara otomatis",
+        "C. Tidak pernah mengalami stres",
+        "D. Lebih mudah mengalami stres dan gangguan suasana hati",
+        "E. Kemampuan berpikir selalu meningkat"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 34,
+      "teks_pertanyaan": "Kebiasaan tidak berolahraga dan terlalu lama duduk dapat meningkatkan risiko ....",
+      "pilihan_jawaban": [
+        "A. Gangguan kesehatan akibat kurang gerak",
+        "B. Peningkatan kekuatan tulang",
+        "C. Peningkatan daya tahan jantung",
+        "D. Peningkatan kelincahan",
+        "E. Peningkatan stamina"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 35,
+      "teks_pertanyaan": "Cara terbaik untuk mengurangi dampak buruk akibat kurang menjaga kebugaran jasmani adalah ....",
+      "pilihan_jawaban": [
+        "A. Mengurangi waktu tidur",
+        "B. Menghindari kegiatan olahraga",
+        "C. Mengonsumsi makanan cepat saji",
+        "D. Bermain gawai sepanjang hari",
+        "E. Melakukan aktivitas fisik secara teratur dan menerapkan pola hidup sehat"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 36,
+      "teks_pertanyaan": "Berapa jumlah maksimal sentuhan yang diperbolehkan dalam permainan bola voli sebelum bola dikembalikan ke tim lawan?",
+      "pilihan_jawaban": [
+        "A. 2",
+        "B. 3",
+        "C. 4",
+        "D. 5",
+        "E. Suka-suka"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 37,
+      "teks_pertanyaan": "Pemain yang memiliki tugas utama untuk menjaga gawang dalam permainan sepak bola adalah:",
+      "pilihan_jawaban": [
+        "A. Penyerang",
+        "B. Gelandang",
+        "C. Bek",
+        "D. Wasit",
+        "E. Kiper"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 38,
+      "teks_pertanyaan": "Apa nama permainan yang menggunakan bola kecil dan tongkat untuk memukul bola dengan tujuan memasukkan bola ke dalam lobang, dan biasanya dimainkan di lapangan rumput?",
+      "pilihan_jawaban": [
+        "A. Cricket",
+        "B. Golf",
+        "C. Polo",
+        "D. Croquet",
+        "E. Volly pantai"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 39,
+      "teks_pertanyaan": "Apa nama permainan bola besar yang dimainkan oleh dua tim yang masing-masing terdiri dari enam pemain?",
+      "pilihan_jawaban": [
+        "A. Bola Basket",
+        "B. Bola Voli",
+        "C. Bola Tenis",
+        "D. Bola Baseball",
+        "E. Sepakbola"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 40,
+      "teks_pertanyaan": "Apa istilah untuk suatu serangan di bola voli yang dilakukan oleh pemain melompat dan memukul bola ke tanah lawan?",
+      "pilihan_jawaban": [
+        "A. Servis",
+        "B. Smash",
+        "C. Block",
+        "D. Passing",
+        "E. Operan"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 41,
+      "teks_pertanyaan": "Berapa lama waktu dalam permainan sepakbola",
+      "pilihan_jawaban": [
+        "A. 2 x 20 Menit",
+        "B. 2 x 25 Menit",
+        "C. 2 x 90 Menit",
+        "D. 2 x 35 Menit",
+        "E. 2 x 45 Menit"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 42,
+      "teks_pertanyaan": "Permainan bulu tangkis biasannya dimainkan oleh, kecuali...",
+      "pilihan_jawaban": [
+        "A. Tunggal Wanita",
+        "B. Tunggal Putra",
+        "C. Tripel Pria",
+        "D. Ganda Campuran",
+        "E. Ganda Pria"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 43,
+      "teks_pertanyaan": "Hana dan putri jago sekali main tenis meja. Salah satu peralatan tenis meja yang biasa digunakan untuk memukul bola disebut ...",
+      "pilihan_jawaban": [
+        "A. Net",
+        "B. Bola",
+        "C. Tongkat",
+        "D. Meja",
+        "E. Bet"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 44,
+      "teks_pertanyaan": "Apa bahan umum yang digunakan untuk membuat bola kecil?",
+      "pilihan_jawaban": [
+        "A. Kayu",
+        "B. Plastik",
+        "C. Besi",
+        "D. Kaca",
+        "E. Semen"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 45,
+      "teks_pertanyaan": "Pemukul permainan tenis meja dilapisi dengan...",
+      "pilihan_jawaban": [
+        "A. Kayu",
+        "B. Besi",
+        "C. Kaca",
+        "D. Kain",
+        "E. Karet"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 46,
+      "teks_pertanyaan": "Manakah di antara berikut yang bukan merupakan olahraga yang menggunakan bola kecil?",
+      "pilihan_jawaban": [
+        "A. Biliard",
+        "B. Golf",
+        "C. Tenis",
+        "D. Sepak Bola",
+        "E. Bowling"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 47,
+      "teks_pertanyaan": "Apa nama bola yang digunakan dalam permainan bulu tangkis?",
+      "pilihan_jawaban": [
+        "A. Bulu Matahari",
+        "B. Shuttlecock",
+        "C. Bola Bulu",
+        "D. Bola mirip bunga",
+        "E. Bulu ayam"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 48,
+      "teks_pertanyaan": "Berapa jumlah poin yang diperlukan untuk memenangkan satu game dalam permainan bulu tangkis?",
+      "pilihan_jawaban": [
+        "A. 11 poin",
+        "B. 100 Poin",
+        "C. 15 poin",
+        "D. 21 poin",
+        "E. 30 Poin"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 49,
+      "teks_pertanyaan": "Berikut ini adalah teknik dasar dalam pertandingan sepak bola, kecuali……",
+      "pilihan_jawaban": [
+        "A. Tendang bola dengan kaki bagian dalam Anda",
+        "B. Mengoper bola dengan menggunakan kaki bagain dalam",
+        "C. Tendang bola dengan kaki luar",
+        "D. Tendang bola dengan punggung kaki Anda",
+        "E. pegang bola dengan tangan Anda"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 50,
+      "gambar": "Images/SAS_1/images_PJOK_10/50.png",
+      "teks_pertanyaan": "Pelanggaran di gambar berikut mendapat ganjaran berupa kartu...",
+      "pilihan_jawaban": [
+        "A. Kuning",
+        "B. Merah",
+        "C. Hijau",
+        "D. Putih",
+        "E. Merah putih"
+      ],
+      "kunci_jawaban": "B"
+    }
+  ]
+}
