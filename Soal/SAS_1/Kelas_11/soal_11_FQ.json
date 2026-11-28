@@ -1,0 +1,610 @@
+{
+  "metadata": {
+    "mata_pelajaran": "Fahmul Qur'an",
+    "jenis_ujian": "ASAS",
+    "jumlah_soal": 50,
+    "durasi_menit": 90
+  },
+  "bank_soal": [
+    {
+      "id_soal": 1,
+      "teks_pertanyaan": "Secara istilah, Makkiyah adalah ayat atau surah yang diturunkan kepada Nabi Muhammad ﷺ ....",
+      "pilihan_jawaban": [
+        "A. Di Kota Makkah saja",
+        "B. Sebelum Nabi Muhammad ﷺ hijrah ke Madinah",
+        "C. Setelah Nabi Muhammad ﷺ hijrah ke Madinah",
+        "D. Di sekitar Masjidil Haram",
+        "E. Setelah Fathu Makkah"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 2,
+      "teks_pertanyaan": "Menurut pendapat mayoritas ulama, penentuan Makkiyah dan Madaniyah didasarkan pada ....",
+      "pilihan_jawaban": [
+        "A. Panjang dan pendeknya ayat",
+        "B. Isi kandungan ayat",
+        "C. Waktu turunnya ayat, sebelum atau sesudah hijrah",
+        "D. Tempat tinggal para sahabat",
+        "E. Sasaran pembaca Al-Qur'an"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 3,
+      "teks_pertanyaan": "Surah atau ayat Madaniyah adalah ayat yang diturunkan ....",
+      "pilihan_jawaban": [
+        "A. Sebelum Nabi diangkat menjadi rasul",
+        "B. Sebelum peristiwa hijrah",
+        "C. Hanya di Kota Madinah",
+        "D. Setelah Nabi Muhammad ﷺ hijrah ke Madinah",
+        "E. Hanya ketika Nabi berada di Masjid Nabawi"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 4,
+      "teks_pertanyaan": "Salah satu tema utama yang banyak ditemukan dalam surah Makkiyah adalah ....",
+      "pilihan_jawaban": [
+        "A. Hukum waris",
+        "B. Hukum pernikahan",
+        "C. Tauhid dan keimanan",
+        "D. Tata cara pembagian zakat",
+        "E. Hukum jual beli"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 5,
+      "teks_pertanyaan": "Salah satu ciri umum surah Madaniyah adalah ....",
+      "pilihan_jawaban": [
+        "A. Selalu terdiri atas ayat pendek",
+        "B. Hanya membahas kisah para nabi",
+        "C. Tidak membahas hukum Islam",
+        "D. Banyak membahas hukum dan kehidupan sosial",
+        "E. Selalu menggunakan kalimat sumpah"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 6,
+      "teks_pertanyaan": "Berikut ini yang termasuk contoh surah Makkiyah adalah ....",
+      "pilihan_jawaban": [
+        "A. Al-Baqarah",
+        "B. Ali Imran",
+        "C. Al-Ikhlas",
+        "D. An-Nisa",
+        "E. Al-Maidah"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 7,
+      "teks_pertanyaan": "Berikut ini yang termasuk contoh surah Madaniyah adalah ....",
+      "pilihan_jawaban": [
+        "A. Al-Ikhlas",
+        "B. Al-Falaq",
+        "C. An-Nas",
+        "D. Al-Baqarah",
+        "E. Al-Masad"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 8,
+      "teks_pertanyaan": "Seruan yang banyak ditemukan dalam ayat-ayat Madaniyah adalah ....",
+      "pilihan_jawaban": [
+        "A. يَا أَيُّهَا النَّاسُ",
+        "B. يَا أَيُّهَا الْكَافِرُونَ",
+        "C. يَا أَيُّهَا الَّذِينَ آمَنُوا",
+        "D. يَا أَيُّهَا الْمُشْرِكُونَ",
+        "E. يَا أَيُّهَا الْمَلَأُ"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 9,
+      "teks_pertanyaan": "Salah satu manfaat mempelajari Makkiyah dan Madaniyah adalah ....",
+      "pilihan_jawaban": [
+        "A. Mengetahui jumlah seluruh nabi",
+        "B. Memahami konteks turunnya ayat",
+        "C. Menentukan jumlah halaman mushaf",
+        "D. Mengetahui nama seluruh malaikat",
+        "E. Menghafal seluruh nama sahabat"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 10,
+      "teks_pertanyaan": "Al-Qur'an diturunkan secara berangsur-angsur. Hal ini dijelaskan dalam ....",
+      "pilihan_jawaban": [
+        "A. QS. Al-Fatihah: 1",
+        "B. QS. Al-Kautsar: 1",
+        "C. QS. Al-Isra': 106",
+        "D. QS. Al-Ikhlas: 2",
+        "E. QS. Al-Falaq: 1"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 11,
+      "teks_pertanyaan": "Ilmu tafsir secara bahasa berasal dari kata فَسَّرَ yang berarti ....",
+      "pilihan_jawaban": [
+        "A. Menghafal",
+        "B. Membaca",
+        "C. Menulis",
+        "D. Menjelaskan atau menerangkan",
+        "E. Menghitung"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 12,
+      "teks_pertanyaan": "Secara istilah, ilmu tafsir adalah ilmu yang membahas tentang ....",
+      "pilihan_jawaban": [
+        "A. Sejarah bangsa Arab saja",
+        "B. Tata cara membaca hadis",
+        "C. Pemahaman dan penjelasan makna ayat-ayat Al-Qur'an",
+        "D. Sejarah kehidupan para raja",
+        "E. Tata cara menulis bahasa Arab"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 13,
+      "teks_pertanyaan": "Al-Qur'an diturunkan kepada Nabi ....",
+      "pilihan_jawaban": [
+        "A. Ibrahim a.s.",
+        "B. Musa a.s.",
+        "C. Isa a.s.",
+        "D. Muhammad ﷺ",
+        "E. Nuh a.s."
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 14,
+      "teks_pertanyaan": "Salah satu alasan pentingnya mempelajari ilmu tafsir adalah ....",
+      "pilihan_jawaban": [
+        "A. Agar dapat mengubah isi Al-Qur'an",
+        "B. Agar dapat membuat ayat baru",
+        "C. Agar terhindar dari kesalahan dalam memahami Al-Qur'an",
+        "D. Agar dapat mengganti hukum Allah",
+        "E. Agar dapat mengurangi jumlah ayat"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 15,
+      "teks_pertanyaan": "Ayat yang menjelaskan tugas Nabi Muhammad ﷺ untuk menerangkan wahyu kepada manusia terdapat dalam ....",
+      "pilihan_jawaban": [
+        "A. QS. Al-Fatihah: 2",
+        "B. QS. Al-Ikhlas: 1",
+        "C. QS. An-Nahl: 44",
+        "D. QS. Al-Falaq: 2",
+        "E. QS. An-Nas: 3"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 16,
+      "teks_pertanyaan": "Berikut ini yang termasuk objek kajian ilmu tafsir adalah ....",
+      "pilihan_jawaban": [
+        "A. Ilmu kedokteran",
+        "B. Ilmu perdagangan",
+        "C. Asbabun nuzul",
+        "D. Ilmu astronomi saja",
+        "E. Ilmu pertanian"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 17,
+      "teks_pertanyaan": "Tafsir bil Ma'tsur merupakan tafsir yang bersumber dari ....",
+      "pilihan_jawaban": [
+        "A. Pendapat pribadi tanpa dasar",
+        "B. Al-Qur'an, hadis, perkataan sahabat, dan tabi'in",
+        "C. Cerita rakyat",
+        "D. Pendapat para filsuf saja",
+        "E. Kebudayaan bangsa lain"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 18,
+      "teks_pertanyaan": "Tafsir yang menggunakan ijtihad dan pemikiran berdasarkan kaidah keilmuan disebut ....",
+      "pilihan_jawaban": [
+        "A. Tafsir bil Ma'tsur",
+        "B. Tafsir bil Ra'yi",
+        "C. Tafsir sejarah",
+        "D. Tafsir isyari saja",
+        "E. Tafsir lughawi saja"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 19,
+      "teks_pertanyaan": "Salah satu sumber tafsir bil Ma'tsur adalah ....",
+      "pilihan_jawaban": [
+        "A. Pendapat orang yang tidak memiliki ilmu",
+        "B. Cerita masyarakat",
+        "C. Pendapat pribadi tanpa dalil",
+        "D. Hadis Nabi Muhammad ﷺ",
+        "E. Dongeng zaman dahulu"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 20,
+      "teks_pertanyaan": "Metode tafsir Tahlili adalah metode menafsirkan Al-Qur'an dengan cara ....",
+      "pilihan_jawaban": [
+        "A. Mengelompokkan ayat berdasarkan tema saja",
+        "B. Menafsirkan ayat secara acak",
+        "C. Menjelaskan ayat demi ayat sesuai urutan mushaf",
+        "D. Hanya menerjemahkan ayat",
+        "E. Menghafalkan seluruh ayat"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 21,
+      "teks_pertanyaan": "Salah satu ciri metode tafsir Tahlili adalah ....",
+      "pilihan_jawaban": [
+        "A. Tidak membahas makna kata",
+        "B. Tidak memperhatikan urutan mushaf",
+        "C. Menjelaskan kosakata dan kandungan ayat secara terperinci",
+        "D. Hanya membahas satu tema",
+        "E. Tidak membahas hukum Islam"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 22,
+      "teks_pertanyaan": "Berikut ini yang termasuk kitab tafsir dengan metode Tahlili adalah ....",
+      "pilihan_jawaban": [
+        "A. Shahih Bukhari",
+        "B. Sunan Abu Dawud",
+        "C. Tafsir Ibnu Katsir",
+        "D. Riyadhus Shalihin",
+        "E. Bulughul Maram"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 23,
+      "teks_pertanyaan": "Salah satu kelebihan metode tafsir Tahlili adalah ....",
+      "pilihan_jawaban": [
+        "A. Pembahasannya selalu singkat",
+        "B. Tidak memerlukan pengetahuan bahasa Arab",
+        "C. Pembahasannya rinci dan mendalam",
+        "D. Tidak membutuhkan sumber rujukan",
+        "E. Hanya membahas satu ayat"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 24,
+      "teks_pertanyaan": "Salah satu kekurangan metode tafsir Tahlili adalah ....",
+      "pilihan_jawaban": [
+        "A. Tidak dapat menjelaskan makna ayat",
+        "B. Tidak bisa digunakan dalam penelitian",
+        "C. Pembahasannya panjang dan membutuhkan waktu lama",
+        "D. Tidak memiliki susunan pembahasan",
+        "E. Tidak dapat membahas hukum"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 25,
+      "teks_pertanyaan": "Dalam metode tafsir Tahlili, penjelasan tentang sebab turunnya ayat disebut ....",
+      "pilihan_jawaban": [
+        "A. Munasabah",
+        "B. Nasikh",
+        "C. Mansukh",
+        "D. Asbabun nuzul",
+        "E. Mufradat"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 26,
+      "teks_pertanyaan": "Seorang sahabat mempelajari ayat yang turun ketika Nabi Muhammad ﷺ berada di Tabuk setelah hijrah. Berdasarkan pendapat jumhur ulama, ayat tersebut termasuk ....",
+      "pilihan_jawaban": [
+        "A. Makkiyah karena turun di luar Madinah",
+        "B. Makkiyah karena Nabi sedang bepergian",
+        "C. Madaniyah karena turun setelah peristiwa hijrah",
+        "D. Makkiyah karena bukan di Masjid Nabawi",
+        "E. Tidak dapat dikategorikan"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 27,
+      "teks_pertanyaan": "Seorang mufasir menemukan ayat yang membahas tentang hukum waris dan pembagian harta peninggalan. Berdasarkan ciri umum kandungannya, ayat tersebut cenderung termasuk ....",
+      "pilihan_jawaban": [
+        "A. Makkiyah",
+        "B. Madaniyah",
+        "C. Ayat kisah",
+        "D. Ayat sumpah",
+        "E. Ayat pembuka surah"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 28,
+      "teks_pertanyaan": "Mengapa seruan يَا أَيُّهَا الَّذِينَ آمَنُوا banyak ditemukan dalam surah Madaniyah?",
+      "pilihan_jawaban": [
+        "A. Karena hanya orang Quraisy yang beriman",
+        "B. Karena seluruh penduduk Makkah telah beriman",
+        "C. Karena ayat-ayat Madaniyah banyak memberikan arahan kepada masyarakat Muslim yang telah terbentuk",
+        "D. Karena ayat Madaniyah tidak membahas akidah",
+        "E. Karena semua surah Madaniyah membahas peperangan"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 29,
+      "teks_pertanyaan": "Perhatikan pernyataan berikut!<br>1. Menekankan tauhid dan keimanan.<br>2. Banyak membahas hukum waris.<br>3. Mengandung kisah para nabi terdahulu.<br>4. Banyak membahas kehidupan sosial masyarakat.<br><br>Ciri-ciri yang lebih dominan pada surah Makkiyah ditunjukkan oleh nomor ....",
+      "pilihan_jawaban": [
+        "A. 1 dan 2",
+        "B. 1 dan 3",
+        "C. 2 dan 3",
+        "D. 2 dan 4",
+        "E. 3 dan 4"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 30,
+      "teks_pertanyaan": "QS. Al-Baqarah ayat 183 menjelaskan kewajiban berpuasa. Ayat tersebut termasuk Madaniyah karena ....",
+      "pilihan_jawaban": [
+        "A. Membahas sejarah bangsa Arab",
+        "B. Mengandung kisah Nabi terdahulu",
+        "C. Diturunkan setelah hijrah dan mengandung ketentuan ibadah",
+        "D. Menggunakan kalimat pendek",
+        "E. Tidak memiliki hubungan dengan syariat"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 31,
+      "teks_pertanyaan": "Seorang ulama menafsirkan ayat dengan menjelaskan maknanya melalui ayat lain yang memiliki keterkaitan. Sumber penafsiran tersebut termasuk ....",
+      "pilihan_jawaban": [
+        "A. Tafsir bil Ra'yi tanpa dasar",
+        "B. Tafsir bil Ma'tsur",
+        "C. Tafsir berdasarkan cerita",
+        "D. Tafsir berdasarkan adat",
+        "E. Tafsir berdasarkan pendapat pribadi"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 32,
+      "teks_pertanyaan": "Mengapa tafsir bil Ra'yi tidak boleh dilakukan tanpa penguasaan ilmu yang memadai?",
+      "pilihan_jawaban": [
+        "A. Karena semua hasil ijtihad pasti salah",
+        "B. Karena Al-Qur'an tidak boleh dipelajari",
+        "C. Karena dapat menyebabkan penafsiran menyimpang dari maksud ayat",
+        "D. Karena hanya sahabat yang boleh membaca Al-Qur'an",
+        "E. Karena bahasa Arab tidak penting dalam tafsir"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 33,
+      "teks_pertanyaan": "Perhatikan kegiatan berikut!<br>1. Menjelaskan arti kata-kata dalam ayat.<br>2. Menguraikan sebab turunnya ayat.<br>3. Menjelaskan hukum yang terkandung dalam ayat.<br>4. Menjelaskan ayat berdasarkan urutan mushaf.<br><br>Kegiatan tersebut merupakan karakteristik metode ....",
+      "pilihan_jawaban": [
+        "A. Tafsir tematik",
+        "B. Tafsir ijmali",
+        "C. Tafsir Tahlili",
+        "D. Tafsir bil Ra'yi saja",
+        "E. Tafsir perbandingan saja"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 34,
+      "teks_pertanyaan": "Seorang peneliti menafsirkan QS. An-Nahl ayat 44 dengan menjelaskan arti kata الذكر, konteks ayat, tugas Nabi, dan pendapat ulama mengenai sunnah. Metode yang digunakan adalah ....",
+      "pilihan_jawaban": [
+        "A. Metode tematik",
+        "B. Metode ijmali",
+        "C. Metode Tahlili",
+        "D. Metode sejarah",
+        "E. Metode perbandingan"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 35,
+      "teks_pertanyaan": "Salah satu manfaat mengetahui nasikh dan mansukh dalam kajian Al-Qur'an adalah ....",
+      "pilihan_jawaban": [
+        "A. Mengetahui jumlah surah Makkiyah",
+        "B. Mengetahui nama-nama sahabat",
+        "C. Memahami hubungan perubahan ketentuan hukum dalam wahyu",
+        "D. Mengetahui panjang setiap ayat",
+        "E. Menentukan jumlah halaman Al-Qur'an"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 36,
+      "teks_pertanyaan": "Dalam ilmu tafsir, istilah munasabah berarti ....",
+      "pilihan_jawaban": [
+        "A. Sebab turunnya ayat",
+        "B. Ayat yang menghapus hukum",
+        "C. Ayat yang dihapus hukumnya",
+        "D. Keterkaitan antara ayat atau surah",
+        "E. Cara membaca huruf hijaiyah"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 37,
+      "teks_pertanyaan": "Seorang siswa ingin mengetahui latar belakang suatu ayat diturunkan. Cabang ilmu yang perlu dipelajarinya adalah ....",
+      "pilihan_jawaban": [
+        "A. Ilmu tajwid",
+        "B. Ilmu qira'at",
+        "C. Asbabun nuzul",
+        "D. Ilmu faraid",
+        "E. Ilmu nahwu saja"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 38,
+      "teks_pertanyaan": "Perhatikan pernyataan berikut!<br>1. Tafsir bil Ma'tsur bersumber dari riwayat.<br>2. Tafsir bil Ra'yi menggunakan ijtihad.<br>3. Tafsir bil Ra'yi boleh dilakukan tanpa kaidah.<br>4. Tafsir bil Ma'tsur bersumber dari hadis Nabi.<br><br>Pernyataan yang benar adalah ....",
+      "pilihan_jawaban": [
+        "A. 1 dan 3",
+        "B. 2 dan 3",
+        "C. 3 dan 4",
+        "D. 1, 2, dan 4",
+        "E. 1, 2, 3, dan 4"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 39,
+      "teks_pertanyaan": "Kitab Jāmi' al-Bayān fī Ta'wīl al-Qur'ān merupakan karya tafsir yang disusun oleh ....",
+      "pilihan_jawaban": [
+        "A. Imam Bukhari",
+        "B. Imam Muslim",
+        "C. Imam Ath-Thabari",
+        "D. Imam Abu Dawud",
+        "E. Imam An-Nasa'i"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 40,
+      "teks_pertanyaan": "Dakwah Nabi Muhammad ﷺ pada fase Makkah lebih menekankan penguatan akidah. Hal ini menunjukkan bahwa ....",
+      "pilihan_jawaban": [
+        "A. Syariat Islam tidak pernah diajarkan",
+        "B. Masyarakat Madinah belum mengenal Islam",
+        "C. Pembinaan keimanan menjadi fondasi sebelum pembentukan masyarakat Islam",
+        "D. Semua hukum Islam hanya berlaku di Makkah",
+        "E. Dakwah Nabi hanya ditujukan kepada kaum Quraisy"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 41,
+      "teks_pertanyaan": "Seorang peneliti menemukan sebuah ayat yang turun setelah hijrah, tetapi lokasi turunnya berada di luar Kota Madinah. Menurut pendapat jumhur ulama, klasifikasi ayat tersebut adalah ....",
+      "pilihan_jawaban": [
+        "A. Makkiyah karena tidak turun di Madinah",
+        "B. Makkiyah karena Nabi sedang dalam perjalanan",
+        "C. Tidak termasuk Makkiyah maupun Madaniyah",
+        "D. Madaniyah karena tolok ukurnya adalah waktu setelah hijrah",
+        "E. Makkiyah karena tempat turunnya bukan Madinah"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 42,
+      "teks_pertanyaan": "Perhatikan beberapa pernyataan berikut!<br>1. Makkiyah ditentukan berdasarkan waktu sebelum hijrah.<br>2. Madaniyah ditentukan berdasarkan waktu setelah hijrah.<br>3. Makkiyah hanya ayat yang turun di Masjidil Haram.<br>4. Madaniyah hanya ayat yang turun di Masjid Nabawi.<br><br>Menurut jumhur ulama, pernyataan yang tepat adalah ....",
+      "pilihan_jawaban": [
+        "A. 1 dan 3",
+        "B. 2 dan 4",
+        "C. 1 dan 2",
+        "D. 1, 2, dan 3",
+        "E. 2, 3, dan 4"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 43,
+      "teks_pertanyaan": "Seorang mufasir menafsirkan ayat Al-Qur'an dengan menggunakan hadis Nabi, kemudian memperkuat penjelasannya dengan perkataan sahabat dan tabi'in. Berdasarkan sumbernya, metode penafsiran tersebut termasuk ....",
+      "pilihan_jawaban": [
+        "A. Tafsir bil Ra'yi yang bebas",
+        "B. Tafsir berdasarkan filsafat",
+        "C. Tafsir bil Ma'tsur",
+        "D. Tafsir berdasarkan adat istiadat",
+        "E. Tafsir berdasarkan pendapat pribadi"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 44,
+      "teks_pertanyaan": "Dalam sebuah penelitian, ditemukan bahwa seorang mufasir menafsirkan ayat berdasarkan pemahaman bahasa Arab, kaidah syariat, hadis, dan prinsip akidah yang benar. Penafsiran tersebut dapat dikategorikan sebagai ....",
+      "pilihan_jawaban": [
+        "A. Tafsir bil Ra'yi yang terlarang",
+        "B. Tafsir tanpa sumber",
+        "C. Tafsir berdasarkan hawa nafsu",
+        "D. Tafsir bil Ra'yi yang dapat diterima berdasarkan kaidah keilmuan",
+        "E. Tafsir yang tidak membutuhkan ilmu Al-Qur'an"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 45,
+      "teks_pertanyaan": "Perhatikan langkah-langkah berikut!<br>1. Membaca ayat yang akan ditafsirkan.<br>2. Menjelaskan kosakata penting.<br>3. Menguraikan kandungan makna ayat.<br>4. Menjelaskan asbabun nuzul jika ada.<br>5. Mengkaji hukum dan hikmah ayat.<br>6. Menyimpulkan pesan utama ayat.<br><br>Urutan tersebut merupakan prosedur yang sesuai dengan metode ....",
+      "pilihan_jawaban": [
+        "A. Tafsir tematik",
+        "B. Tafsir ijmali",
+        "C. Tafsir perbandingan",
+        "D. Tafsir Tahlili",
+        "E. Tafsir berdasarkan sejarah"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 46,
+      "teks_pertanyaan": "Seorang mufasir menjelaskan suatu ayat secara mendalam, tetapi pembahasannya terlalu panjang sehingga pembaca kesulitan melihat hubungan ayat tersebut dengan tema besar Al-Qur'an. Keadaan ini menggambarkan ....",
+      "pilihan_jawaban": [
+        "A. Kelebihan utama metode Tahlili",
+        "B. Kesalahan dalam penulisan mushaf",
+        "C. Salah satu kekurangan metode Tahlili",
+        "D. Kelemahan seluruh metode tafsir",
+        "E. Ketidakmampuan memahami bahasa Arab"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 47,
+      "teks_pertanyaan": "QS. Al-Isra' ayat 106 dan QS. Al-Furqan ayat 32 menjelaskan bahwa Al-Qur'an diturunkan secara berangsur-angsur. Hikmah utama dari proses tersebut sebagaimana dijelaskan dalam QS. Al-Furqan ayat 32 adalah ....",
+      "pilihan_jawaban": [
+        "A. Agar manusia menghafal seluruh ayat dalam satu hari",
+        "B. Agar hukum Islam tidak pernah berubah",
+        "C. Agar Al-Qur'an hanya dipahami oleh bangsa Arab",
+        "D. Untuk meneguhkan hati Nabi Muhammad ﷺ",
+        "E. Agar seluruh ayat turun di satu tempat"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 48,
+      "teks_pertanyaan": "Seorang siswa membandingkan fase dakwah Nabi di Makkah dan Madinah. Ia menyimpulkan bahwa fase Makkah menekankan pembinaan akidah, sedangkan fase Madinah menekankan pembentukan masyarakat dan penerapan syariat. Kesimpulan tersebut menunjukkan manfaat mempelajari Makkiyah dan Madaniyah dalam aspek ....",
+      "pilihan_jawaban": [
+        "A. Menentukan jumlah ayat setiap surah",
+        "B. Menghafal seluruh nama sahabat",
+        "C. Mengetahui perbedaan bahasa Arab",
+        "D. Memahami perkembangan strategi dakwah Rasulullah ﷺ",
+        "E. Menentukan urutan turunnya seluruh hadis"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 49,
+      "teks_pertanyaan": "Dalam kajian tafsir, seorang peneliti menggabungkan pemahaman kosakata, struktur bahasa, sebab turunnya ayat, kandungan hukum, dan hubungan antarayat. Mengapa pendekatan tersebut sesuai dengan metode Tahlili?",
+      "pilihan_jawaban": [
+        "A. Karena metode Tahlili hanya menjelaskan terjemahan ayat",
+        "B. Karena metode Tahlili menghindari pembahasan bahasa",
+        "C. Karena metode Tahlili hanya berfokus pada hukum",
+        "D. Karena metode Tahlili tidak membutuhkan sumber riwayat",
+        "E. Karena metode Tahlili menguraikan berbagai aspek ayat secara terperinci sesuai urutan mushaf"
+      ],
+      "kunci_jawaban": "E"
+    },
+    {
+      "id_soal": 50,
+      "teks_pertanyaan": "Seorang penafsir menyimpulkan bahwa semua ayat yang mengandung seruan يَا أَيُّهَا الَّذِينَ آمَنُوا pasti Madaniyah, dan semua ayat yang mengandung يَا أَيُّهَا النَّاسُ pasti Makkiyah. Bagaimana penilaian yang paling tepat terhadap kesimpulan tersebut?",
+      "pilihan_jawaban": [
+        "A. Benar sepenuhnya karena seruan merupakan satu-satunya dasar klasifikasi",
+        "B. Benar karena setiap ayat memiliki pola bahasa yang sama",
+        "C. Salah karena tidak ada perbedaan antara Makkiyah dan Madaniyah",
+        "D. Kurang tepat karena ciri-ciri tersebut hanya merupakan kecenderungan umum, sedangkan tolok ukur utama jumhur adalah waktu hijrah",
+        "E. Salah karena klasifikasi hanya ditentukan berdasarkan panjang pendeknya ayat"
+      ],
+      "kunci_jawaban": "D"
+    }
+  ]
+}
