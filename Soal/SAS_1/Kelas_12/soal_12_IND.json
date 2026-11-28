@@ -1,0 +1,577 @@
+{
+  "metadata": {
+    "mata_pelajaran": "Bahasa Indonesia",
+    "jenis_ujian": "SAS_1",
+    "jumlah_soal": 50,
+    "durasi_menit": 90
+  },
+  "bank_soal": [
+    {
+      "id_soal": 1,
+      "teks_pertanyaan": "Sekumpulan data atau fakta yang telah diproses dan diolah sedemikian rupa sehingga menjadi sesuatu yang mudah dimengerti dan bermanfaat bagi pembaca disebut?",
+      "pilihan_jawaban": [
+        "A. Solusi",
+        "B. Informasi",
+        "C. Narasi",
+        "D. Opini"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 2,
+      "teks_pertanyaan": "Berikut ini adalah fungsi dari suatu informasi, kecuali ....",
+      "pilihan_jawaban": [
+        "A. Sumber pengetahuan baru",
+        "B. Sebagai media hiburan",
+        "C. Sebagai sumber berita",
+        "D. Sebagai alat memecah belah/adu domba"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 3,
+      "teks_pertanyaan": "Di bawah ini yang menjadi dasar suatu informasi dikatakan tidak valid atau bohong adalah ....",
+      "pilihan_jawaban": [
+        "A. Berasal dari sumber yang tidak kredibel",
+        "B. Berdasarkan fakta di lapangan",
+        "C. Berdasarkan observasi langsung",
+        "D. Berdasarkan jurnal"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 4,
+      "teks_pertanyaan": "Di bawah ini adalah langkah dalam mengevaluasi informasi secara lengkap, yaitu ....",
+      "pilihan_jawaban": [
+        "A. Otoritas, objektivitas, ketepatan waktu, kebenaran informasi, dan relevansi",
+        "B. Otoritas, relevansi, dan kebenaran informasi",
+        "C. Otoritas, objektivitas, subjektivitas, kebenaran informasi, dan relevansi",
+        "D. Subjektivitas, objektivitas, dan relevansi"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 5,
+      "teks_pertanyaan": "Langkah mengevaluasi informasi dengan memperhatikan sejauh mana produsen informasi memenuhi syarat untuk menyajikan informasi seperti kredibilitas sumber adalah ....",
+      "pilihan_jawaban": [
+        "A. Objektivitas",
+        "B. Ketepatan waktu",
+        "C. Relevansi",
+        "D. Otoritas"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 6,
+      "teks_pertanyaan": "Suatu informasi yang baik dan benar harus disajikan dari posisi netral dan tidak memihak. Hal tersebut sesuai dengan langkah mengevaluasi informasi yang disebut ....",
+      "pilihan_jawaban": [
+        "A. Otoritas",
+        "B. Objektivitas",
+        "C. Relevansi",
+        "D. Ketepatan waktu"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 7,
+      "teks_pertanyaan": "Di bawah ini yang termasuk ciri-ciri dari sebuah fakta, kecuali ....",
+      "pilihan_jawaban": [
+        "A. Pernyataan yang sesuai dengan kenyataan atau peristiwa yang benar-benar terjadi.",
+        "B. Dapat dibuktikan kebenarannya melalui data, informasi yang akurat, atau peristiwa yang dapat diverifikasi.",
+        "C. Bersifat objektif dan tidak dipengaruhi oleh pendapat pribadi.",
+        "D. Bersifat subjektif atau berdasarkan sudut pandang pribadi."
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 8,
+      "teks_pertanyaan": "Pendapat, pikiran, atau keyakinan seseorang tentang suatu hal yang belum dapat dipastikan kebenarannya disebut ....",
+      "pilihan_jawaban": [
+        "A. Fakta",
+        "B. Data",
+        "C. Opini",
+        "D. Persuasi"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 9,
+      "teks_pertanyaan": "Perwujudan sebuah informasi, data, dan pengetahuan yang sebelumnya terlihat rumit menjadi sajian dalam bentuk grafis atau visual. Di dalam infografis biasanya terdapat teks ringkas, simbol, dan angka yang disajikan menarik adalah pengertian dari ....",
+      "pilihan_jawaban": [
+        "A. Gambar",
+        "B. Informasi",
+        "C. Data",
+        "D. Infografik"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 10,
+      "teks_pertanyaan": "Kriteria infografik yang baik dan berkualitas di antaranya, kecuali ....",
+      "pilihan_jawaban": [
+        "A. Berorientasi pada tujuan",
+        "B. Berdasarkan riset dan sumber yang kredibel (dapat dipercaya)",
+        "C. Relevan dengan kebutuhan pengguna",
+        "D. Memiliki banyak opini"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 11,
+      "teks_pertanyaan": "Apa yang harus dihindari saat membuat infografik?",
+      "pilihan_jawaban": [
+        "A. Memilih jenis grafis yang sesuai dengan informasi yang akan disajikan",
+        "B. Memvisualisasikan data dan fakta secara acak dan tidak teratur",
+        "C. Memperhatikan kesesuaian warna dan kontras untuk mempermudah pembaca",
+        "D. Menyajikan informasi secara berurutan sesuai kronologis"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 12,
+      "teks_pertanyaan": "Dalam suatu infografik disajikan suatu teks yang menggambarkan dan mendeskripsikan suatu objek atau tokoh secara rinci dan singkat. Teks tersebut disebut dengan?",
+      "pilihan_jawaban": [
+        "A. Teks argumentasi",
+        "B. Teks deskripsi",
+        "C. Teks observasi",
+        "D. Teks persuasi"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 13,
+      "teks_pertanyaan": "Yang perlu diperhatikan saat membuat suatu infografik, kecuali ....",
+      "pilihan_jawaban": [
+        "A. Alur dan gaya",
+        "B. Data atau fakta narasi",
+        "C. Tata letak",
+        "D. Subjektivitas penulis"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 14,
+      "gambar": "Images/SAS_1/images_IND_12/14.png",
+      "teks_pertanyaan": "Perhatikan infografik berikut ini untuk menjawab soal nomor 14–16!<br><br>Dilihat dari datanya, dapat disimpulkan bahwa tokoh tersebut berprofesi sebagai ....",
+      "pilihan_jawaban": [
+        "A. Orator",
+        "B. Politikus",
+        "C. Sastrawan",
+        "D. Wiraswasta"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 15,
+      "gambar": "Images/SAS_1/images_IND_12/14.png",
+      "teks_pertanyaan": "Pernyataan berikut yang tidak sesuai dengan isi infografik di atas adalah ....",
+      "pilihan_jawaban": [
+        "A. Mengajar di Fakultas Sastra Universitas Indonesia",
+        "B. Meninggal pada 19 Juli 2020",
+        "C. Mendapat penghargaan Akademi Jakarta",
+        "D. Pernah bekerja di majalah sastra Horison"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 16,
+      "gambar": "Images/SAS_1/images_IND_12/14.png",
+      "teks_pertanyaan": "Komentar yang sesuai dengan infografik tersebut adalah ....",
+      "pilihan_jawaban": [
+        "A. Subagio Sastrowardoyo adalah sahabat Sapardi",
+        "B. Sapardi sangat produktif pada tahun 2015",
+        "C. Alur infografik kanan-kiri",
+        "D. Tema yang digunakan sangat cocok dengan sastrawan"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 17,
+      "teks_pertanyaan": "Suatu teks yang menyuguhkan tahapan, langkah-langkah, atau prosedur sebagai syarat mencapai tujuan disebut dengan ....",
+      "pilihan_jawaban": [
+        "A. Teks narasi",
+        "B. Teks prosedur",
+        "C. Teks argumentasi",
+        "D. Teks deskripsi"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 18,
+      "teks_pertanyaan": "Struktur dari teks prosedur yang benar secara berurutan adalah ....",
+      "pilihan_jawaban": [
+        "A. Judul, tujuan, bahan/syarat tertentu, instruksi atau tahapan",
+        "B. Judul, bahan/syarat tertentu, instruksi atau tahapan",
+        "C. Instruksi atau tahapan, bahan/syarat tertentu, tema",
+        "D. Tema, instruksi, bahan atau syarat tertentu"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 19,
+      "teks_pertanyaan": "Ciri kebahasaan teks prosedur yakni menggunakan kalimat imperatif, yang berarti ....",
+      "pilihan_jawaban": [
+        "A. Kalimat instruksi atau perintah",
+        "B. Kalimat deklaratif",
+        "C. Kalimat opini",
+        "D. Kalimat fakta"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 20,
+      "teks_pertanyaan": "Apa yang dimaksud dengan kalimat interogatif dalam ciri kebahasaan teks prosedur?",
+      "pilihan_jawaban": [
+        "A. Kalimat perintah",
+        "B. Kalimat yang berupa pertanyaan",
+        "C. Kalimat opini",
+        "D. Kalimat fakta"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 21,
+      "teks_pertanyaan": "Di bawah ini yang merupakan contoh konjungsi temporal, kecuali ....",
+      "pilihan_jawaban": [
+        "A. Setelah itu",
+        "B. Lalu",
+        "C. Kemudian",
+        "D. Tidak"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 22,
+      "teks_pertanyaan": "Jenis teks prosedur yang menyajikan tahapan atau langkah secara sistematis dan rumit, serta tahapannya tidak bisa diubah atau diacak adalah ....",
+      "pilihan_jawaban": [
+        "A. Teks prosedur biasa",
+        "B. Teks prosedur kompleks",
+        "C. Teks prosedur sederhana",
+        "D. Teks prosedur sedang"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 23,
+      "teks_pertanyaan": "Cermati kutipan berikut ini untuk menjawab soal nomor 23–24!<br><br>Selain memilih kandang, Anda juga perlu memahami tingkat kepadatan populasi ayam. Dalam hal ini, Anda bisa menentukannya berdasarkan umur ayam dari satu minggu, dua minggu, hingga di atas dua minggu. Cara ini dilakukan agar kepadatan populasi ayam di dalam kandang bisa diatur dan mencegah suhu di dalam kandang cepat panas.<br><br>Jika dilihat dari isinya, kutipan tersebut dalam struktur teks prosedur kompleks termasuk bagian ....",
+      "pilihan_jawaban": [
+        "A. Judul",
+        "B. Tujuan",
+        "C. Bahan-bahan",
+        "D. Langkah-langkah"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 24,
+      "teks_pertanyaan": "Interpretasi yang tepat berdasarkan isi kutipan teks tersebut adalah ....",
+      "pilihan_jawaban": [
+        "A. Kita dapat mengetahui kepadatan kandang ayam dari umur ayam",
+        "B. Menjaga kepadatan kandang ayam dengan cara mengatur suhu kandang tersebut",
+        "C. Memilih kandang ayam berdasarkan umur ayam",
+        "D. Membedakan kandang ayam berdasarkan umurnya dapat menjaga kepadatan ayam"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 25,
+      "teks_pertanyaan": "Dalam mempresentasikan suatu teks prosedur maupun infografis, harus mampu menyampaikan gagasan, pikiran, pandangan, arahan atau pesan dengan santun, sopan, jelas, kreatif dan mudah diterima. Hal tersebut sejalan dengan ....",
+      "pilihan_jawaban": [
+        "A. Kesantunan dalam presentasi",
+        "B. Keindahan dalam presentasi",
+        "C. Kelengkapan presentasi",
+        "D. Kekurangan presentasi"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 26,
+      "gambar": "Images/SAS_1/images_IND_12/26.png",
+      "teks_pertanyaan": "Cermatilah infografik berikut untuk menjawab soal nomor 26–28!<br><br>Kelemahan yang tampak pada infografis tersebut adalah ....",
+      "pilihan_jawaban": [
+        "A. Tidak adanya simbol untuk mengetahui alur infografik",
+        "B. Variasi tulisan yang berlebihan sehingga menjenuhkan",
+        "C. Isinya kurang memberikan informasi lengkap",
+        "D. Warna yang digunakan sangat mencolok"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 27,
+       "gambar": "Images/SAS_1/images_IND_12/26.png",
+      "teks_pertanyaan": "Keteladanan jiwa patriotik tokoh tercermin pada ....",
+      "pilihan_jawaban": [
+        "A. Menciptakan lagu yang menggugah perjuangan untuk melawan penjajah",
+        "B. Menciptakan lagu yang menggambarkan keindahan dan kesuburan Indonesia",
+        "C. Kemampuan memainkan alat musik sejak belia",
+        "D. Perjuangan yang diabadikan lewat taman"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 28,
+       "gambar": "Images/SAS_1/images_IND_12/26.png",
+      "teks_pertanyaan": "Alur pada infografik tersebut adalah ....",
+      "pilihan_jawaban": [
+        "A. Kiri-kanan",
+        "B. Kanan-kiri",
+        "C. Atas-bawah",
+        "D. Tidak terdeteksi"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 29,
+      "teks_pertanyaan": "Sebuah teks yang menjelaskan fenomena atau peristiwa yang terjadi secara runtut disebut?",
+      "pilihan_jawaban": [
+        "A. Teks persuasi",
+        "B. Teks narasi",
+        "C. Teks deskripsi",
+        "D. Teks eksplanasi"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 30,
+      "teks_pertanyaan": "Indonesia merupakan salah satu negara di dunia yang wilayahnya sangat luas. Luas daratan Indonesia sekitar 1.904.569 kilometer persegi. Sementara itu, luas perairan Indonesia sekitar 6.159.032 kilometer persegi. Jika digabungkan kedua luas tersebut maka luas keseluruhan wilayah Indonesia sekitar 7,9 juta kilometer persegi.<br><br>Gagasan utama pada paragraf di atas adalah ....",
+      "pilihan_jawaban": [
+        "A. Luas daratan Indonesia",
+        "B. Wilayah Indonesia sangat luas",
+        "C. Luas wilayah lautan Indonesia",
+        "D. Penggabungan luas wilayah Indonesia"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 31,
+      "teks_pertanyaan": "Di bawah ini merupakan struktur teks eksplanasi yang tepat secara berurutan……",
+      "pilihan_jawaban": [
+        "A. Pernyataan umum, abstraksi, interpretasi",
+        "B. Pernyataan umum, interpretasi, solusi",
+        "C. Solusi, interpretasi, kesimpulan",
+        "D. Pernyataan umum, rangkaian penjelas, interpretasi"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 32,
+      "teks_pertanyaan": "Urutan terjadinya suatu fenomena atau peristiwa pada teks eksplanasi akan dijelaskan pada bagian ....",
+      "pilihan_jawaban": [
+        "A. Pernyataan umum",
+        "B. Rangkaian penjelas",
+        "C. Interpretasi",
+        "D. Kesimpulan"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 33,
+      "teks_pertanyaan": "Cermati teks berikut ini untuk menjawab soal nomor 33–38!<br><br><b>Proses Terbentuknya Angin Topan</b><br><br>Angin topan adalah angin kencang dengan pusaran angin yang kecepatannya mencapai 120 km/jam atau lebih. Angin topan bisa juga disebut badai besar yang sangat kuat. Bagaimana proses terbentuknya angin topan?<br><br>Topan terbentuk di lautan suhu panas. Air yang panas, tentunya akan cepat menguap. Uap air yang berasal dari lautan itu jumlahnya sangat banyak. Uap air kemudian naik dan membentuk awan kumulonimbus. Di dalam gumpalan awan ini, terdapat pusaran angin yang sangat kuat. Pusaran angin akan semakin kencang, sehingga berputar-putar dan terbentuklah topan.<br><br>Angin topan biasanya terjadi dibarengi dengan hujan yang lebat. Mengapa hal itu bisa terjadi? Topan terbentuk dari kumpulan awan. Di dalam topan terdapat banyak sekali awan mendung. Awan mendung inilah yang akan menurunkan hujan lebat. Ketika angin topan terjadi, maka langit akan tertutup awan mendung.<br><br>Angin topan biasanya terjadi dibarengi dengan hujan yang lebat. Mengapa hal itu bisa terjadi? Topan terbentuk dari kumpulan awan. Di dalam topan terdapat banyak sekali awan mendung. Awan mendung inilah yang akan menurunkan hujan lebat. Ketika angin topan terjadi, maka langit akan tertutup awan mendung.<br><br>Angin topan sering merobohkan rumah dan pohon, bahkan bisa menerbangkan apa saja yang ada di dekatnya. Oleh karena itu, saat angin topan terjadi, perlu dilakukan tindakan siaga bencana, seperti berlindung pada bangunan yang kokoh, hindari bangunan yang tinggi, seperti pohon, tiang listrik, pamflet, dan sejenisnya.<br><br>Pernyataan umum pada teks tersebut ditunjukkan oleh paragraf ....",
+      "pilihan_jawaban": [
+        "A. Pertama",
+        "B. Pertama dan kedua",
+        "C. Ketiga",
+        "D. Keempat"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 34,
+      "teks_pertanyaan": "Rangkaian penjelas pada teks eksplanasi di atas ditunjukkan oleh paragraf ....",
+      "pilihan_jawaban": [
+        "A. Kedua",
+        "B. Ketiga",
+        "C. Kelima",
+        "D. Kedua dan ketiga"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 35,
+      "teks_pertanyaan": "Gagasan utama pada paragraf ketiga teks tersebut adalah ....",
+      "pilihan_jawaban": [
+        "A. Angin topan terjadi karena awan mendung",
+        "B. Proses terjadinya angin topan dibarengi dengan hujan lebat",
+        "C. Angin topan adalah bencana alam",
+        "D. Angin topan akan menghasilkan hujan"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 36,
+      "teks_pertanyaan": "Gagasan utama pada paragraf terakhir teks di atas adalah ....",
+      "pilihan_jawaban": [
+        "A. Tindakan siaga bencana angin topan",
+        "B. Angin topan bisa merobohkan rumah dan pohon",
+        "C. Angin topan bisa menerbangkan apa saja",
+        "D. Angin topan adalah bencana yang dahsyat"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 37,
+      "teks_pertanyaan": "Gagasan pokok yang terdapat di akhir paragraf disebut?",
+      "pilihan_jawaban": [
+        "A. Paragraf deduktif",
+        "B. Paragraf induktif",
+        "C. Paragraf penjelas",
+        "D. Paragraf utama"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 38,
+      "teks_pertanyaan": "Di bawah ini yang merupakan ciri kebahasaan teks eksplanasi, KECUALI ....",
+      "pilihan_jawaban": [
+        "A. Menggunakan kalimat pasif",
+        "B. Menggunakan kalimat aktif",
+        "C. Menggunakan istilah ilmiah",
+        "D. Menggunakan konjungsi kausal"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 39,
+      "gambar": "Images/SAS_1/images_IND_12/39.png",
+      "teks_pertanyaan": "Cermati prosedur pembuatan KTP berikut ini untuk menjawab soal nomor 39–40!<br><br>Apa yang menyebabkan infografik alur pembuatan KTP sebagai sebuah teks prosedur kompleks?",
+      "pilihan_jawaban": [
+        "A. Memerlukan tahapan yang sederhana",
+        "B. Alur pembuatan yang dapat diubah",
+        "C. Alur pembuatan yang detail dan terstruktur",
+        "D. Memiliki banyak langkah pembuatan"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 40,
+       "gambar": "Images/SAS_1/images_IND_12/39.png",
+      "teks_pertanyaan": "Penggunaan tanda baca yang kurang tepat pada infografik tersebut ditunjukkan oleh ....",
+      "pilihan_jawaban": [
+        "A. Tahap 1",
+        "B. Tahap 2",
+        "C. Tahap 3",
+        "D. Tahap 4"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 41,
+      "gambar": "Images/SAS_1/images_IND_12/41.png",
+      "teks_pertanyaan": "Berdasarkan stimulus di bawah ini, tentukan jawaban yang sesuai (soal nomor 41–45)!<br><br>Berjualan di media sosial terlebih dahulu merupakan langkah penting untuk meminimalisir risiko.",
+      "pilihan_jawaban": [
+        "A. Benar",
+        "B. Salah",
+        "C. Ragu-ragu",
+        "D. Tidak ada jawaban"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 42,
+      "gambar": "Images/SAS_1/images_IND_12/41.png",
+      "teks_pertanyaan": "Disarankan melakukan pinjaman untuk awal modal bisnis walau jumlahnya sedikit.",
+      "pilihan_jawaban": [
+        "A. Benar",
+        "B. Salah",
+        "C. Ragu-ragu",
+        "D. Tidak ada jawaban"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 43,
+      "gambar": "Images/SAS_1/images_IND_12/41.png",
+      "teks_pertanyaan": "Bisnis makanan dapat dilakukan dengan menjual makanan dari pihak lain.",
+      "pilihan_jawaban": [
+        "A. Benar",
+        "B. Salah",
+        "C. Ragu-ragu",
+        "D. Tidak ada jawaban"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 44,
+      "gambar": "Images/SAS_1/images_IND_12/41.png",
+      "teks_pertanyaan": "Cara agar mudah mengelola keuangan dalam bisnis adalah dengan memiliki dua rekening.",
+      "pilihan_jawaban": [
+        "A. Benar",
+        "B. Salah",
+        "C. Ragu-ragu",
+        "D. Tidak ada jawaban"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 45,
+      "gambar": "Images/SAS_1/images_IND_12/41.png",
+      "teks_pertanyaan": "Segeralah memulai bisnis walau secara autodidak.",
+      "pilihan_jawaban": [
+        "A. Benar",
+        "B. Salah",
+        "C. Ragu-ragu",
+        "D. Tidak ada jawaban"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 46,
+      "gambar": "Images/SAS_1/images_IND_12/46.png",
+      "teks_pertanyaan": "Cermati infografik di bawah ini untuk menjawab soal nomor 46–49!<br><br>Dilihat dari kontennya, infografik tersebut lebih menekankan pada ....",
+      "pilihan_jawaban": [
+        "A. Identitas tokoh",
+        "B. Perjuangan tokoh",
+        "C. Asal-usul tokoh",
+        "D. Penghargaan pada tokoh"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 47,
+      "gambar": "Images/SAS_1/images_IND_12/46.png",
+      "teks_pertanyaan": "Kelebihan yang menonjol dari infografik tokoh tersebut adalah ....",
+      "pilihan_jawaban": [
+        "A. Penggunaan banyak simbol dan variasi penulisan",
+        "B. Penggunaan bahasa yang mudah dipahami",
+        "C. Penggunaan warna yang terlalu mencolok",
+        "D. Pemaparannya sangat panjang dan bertele-tele"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 48,
+      "gambar": "Images/SAS_1/images_IND_12/46.png",
+      "teks_pertanyaan": "Pernyataan yang tidak sesuai dengan infografik tersebut adalah ....",
+      "pilihan_jawaban": [
+        "A. Beliau diangkat menjadi sultan dalam usia yang masih belia",
+        "B. Peperangan melawan Belanda dengan strategi gerilya",
+        "C. Beliau wafat di tempat pengasingan",
+        "D. Beliau adalah salah satu pahlawan dari Riau"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 49,
+      "gambar": "Images/SAS_1/images_IND_12/46.png",
+      "teks_pertanyaan": "Kelemahan yang tampak pada infografis tersebut adalah ....",
+      "pilihan_jawaban": [
+        "A. Tidak adanya simbol untuk mengetahui alur infografik",
+        "B. Variasi tulisan yang berlebihan sehingga menjenuhkan",
+        "C. Isinya kurang memberikan informasi lengkap",
+        "D. Warna yang digunakan kurang bervariasi"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 50,
+      "teks_pertanyaan": "Berdasarkan infografik tersebut, alur yang digunakan adalah ....",
+      "pilihan_jawaban": [
+        "A. Kiri-Kanan",
+        "B. Bawah-Atas",
+        "C. Kanan-Kiri",
+        "D. Atas-Bawah"
+      ],
+      "kunci_jawaban": "D"
+    }
+  ]
+}
