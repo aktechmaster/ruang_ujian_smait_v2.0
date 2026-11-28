@@ -1,0 +1,560 @@
+{
+  "metadata": {
+    "mata_pelajaran": "Bahasa Indonesia",
+    "jenis_ujian": "SAS_GANJIL",
+    "jumlah_soal": 50,
+    "durasi_menit": 90
+  },
+  "bank_soal": [
+    {
+      "id_soal": 1,
+      "teks_pertanyaan": "Di bawah ini yang merupakan pengertian dari teks argumentasi adalah ....",
+      "pilihan_jawaban": [
+        "A. Teks yang berisi cerita singkat yang menarik karena lucu dan mengesankan",
+        "B. Suatu jenis pengembangan paragraf yang bertujuan untuk menjelaskan, memberitahu, memaparkan atau menerangkan sesuatu secara singkat",
+        "C. Teks yang berisi penjelasan mengenai pendapat/opini tentang suatu masalah untuk meyakinkan orang lain berdasarkan data atau fakta disertai bukti pendukung",
+        "D. Teks yang bertujuan untuk memberikan perintah kepada pembaca"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 2,
+      "teks_pertanyaan": "Di bawah ini yang merupakan tujuan dari teks argumentasi adalah ....",
+      "pilihan_jawaban": [
+        "A. Mendapatkan informasi dan penjelasan rinci mengenai suatu hal dari sudut pandang keilmuan",
+        "B. Menggambarkan suatu objek sehingga pembaca seakan bisa melihat, mendengar, atau merasakan objek yang digambarkan",
+        "C. Menjelaskan informasi tertentu agar bisa menambah ilmu pengetahuan",
+        "D. Meyakinkan pembaca bahwa ide, gagasan, serta pendapat penulis dalam tulisan/teks adalah benar dan dapat dibuktikan berdasarkan data/fakta"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 3,
+      "teks_pertanyaan": "Di bawah ini merupakan struktur dari teks argumentasi, kecuali ....",
+      "pilihan_jawaban": [
+        "A. Deskripsi bagian",
+        "B. Pendahuluan/gagasan",
+        "C. Tubuh argumen",
+        "D. Kesimpulan"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 4,
+      "teks_pertanyaan": "Dalam struktur teks argumentasi, bagian yang membuktikan kebenaran berdasarkan data atau fakta yang didapatkan melalui observasi adalah bagian ....",
+      "pilihan_jawaban": [
+        "A. Pendahuluan",
+        "B. Badan argumen",
+        "C. Kesimpulan",
+        "D. Abstrak"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 5,
+      "teks_pertanyaan": "Ciri-ciri paragraf argumentasi adalah sebagai berikut, kecuali ....",
+      "pilihan_jawaban": [
+        "A. Berisi bukti dan kebenaran, bukan fiksi atau hasil imajinasi",
+        "B. Bersifat mengajak dan memerintah",
+        "C. Memiliki argumentasi yang kuat disertai dengan data faktual",
+        "D. Menghindari subjektivitas dan emosional"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 6,
+      "teks_pertanyaan": "Pernyataan di bawah ini yang merupakan fakta adalah ....",
+      "pilihan_jawaban": [
+        "A. Penanganan masalah rokok di negara ini masih sangat kurang",
+        "B. Berdasarkan data riset, tercatat adanya peningkatan perokok muda di bawah usia 18 tahun sebanyak 7,2% - 8,8% dalam 3-4 tahun terakhir",
+        "C. Beberapa faktor dapat mengakibatkan meningkatnya jumlah perokok muda tersebut, seperti orang tua yang merokok di depan anaknya",
+        "D. Kebiasaan orang tua untuk menyuruh anaknya membelikan rokok, ternyata dapat meningkatkan jumlah perokok muda"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 7,
+      "teks_pertanyaan": "Pernyataan di bawah ini yang merupakan sebuah fakta pada teks argumentasi adalah ....",
+      "pilihan_jawaban": [
+        "A. Jumlah yang diakibatkan dari kecelakaan di jalan raya tahun ini terus meningkat",
+        "B. Korban kecelakaan yang meninggal dunia umumnya mengalami cedera kepala",
+        "C. Menurut data yang dirilis oleh kepolisian, tahun kemarin jumlah kasus kecelakaan mencapai 4.500 kasus, dibandingkan dengan tahun ini yang telah mencapai 5.300 kasus",
+        "D. Kelalaian dalam berkendara dapat berakibat celaka pada diri sendiri dan orang lain"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 8,
+      "teks_pertanyaan": "Di bawah ini adalah kalimat berupa fakta yang terdapat pada teks argumentasi, kecuali ....",
+      "pilihan_jawaban": [
+        "A. Negara Indonesia terdiri atas pulau besar dan kecil",
+        "B. Mendiknas meresmikan Fakultas Kedokteran Universitas Muhammadiyah Jakarta pada 5 Juni 2003",
+        "C. Kecelakaan pesawat Air Asia yang jatuh di Selat Karimata menelan korban 142 orang",
+        "D. Rajin mengonsumsi sayur dapat membuat seseorang awet muda"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 9,
+      "teks_pertanyaan": "Pendapat seseorang atau penulis terhadap sesuatu, yang belum pasti kebenarannya adalah ....",
+      "pilihan_jawaban": [
+        "A. Fakta",
+        "B. Opini",
+        "C. Terkini",
+        "D. Data"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 10,
+      "teks_pertanyaan": "Bagian dari teks argumentasi yang berisi tentang hasil eksplorasi penulis yang disampaikan dalam bentuk opini dan disertai data atau fakta, yang disusun secara sistematis agar pembaca tidak merasa jenuh, adalah ....",
+      "pilihan_jawaban": [
+        "A. Pendahuluan",
+        "B. Tubuh argumen",
+        "C. Simpulan",
+        "D. Gagasan"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 11,
+      "teks_pertanyaan": "Tahapan dalam menulis teks argumentasi secara berurutan yaitu ....",
+      "pilihan_jawaban": [
+        "A. Penulisan draf, pra-penulisan, menyunting/editing",
+        "B. Penulisan draf, gagasan, menyunting/editing",
+        "C. Pra-penulisan, penulisan draf, menyunting/editing",
+        "D. Pra-penulisan, editing, penulisan draf"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 12,
+      "teks_pertanyaan": "Pemilihan topik, penyusunan ide dan peta konsep atau rancangan adalah bagian dari tahap ....",
+      "pilihan_jawaban": [
+        "A. Pra-penulisan",
+        "B. Penulisan draf",
+        "C. Editing",
+        "D. Presentasi"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 13,
+      "teks_pertanyaan": "Tahap menuangkan ide-ide atau gagasan yang dimiliki ke dalam tulisan atau teks kasar, lalu mengembangkan kerangka konsep menjadi paragraf yang sistematis, adalah tahap ....",
+      "pilihan_jawaban": [
+        "A. Pra-penulisan",
+        "B. Penulisan draf",
+        "C. Editing",
+        "D. Presentasi"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 14,
+      "teks_pertanyaan": "Langkah akhir dalam menyusun teks argumentasi adalah melakukan pengecekan ulang guna memperbaiki kesalahan, atau melakukan pergantian dan penyusunan kembali draf argumentasi. Langkah tersebut adalah bagian dari tahap ....",
+      "pilihan_jawaban": [
+        "A. Pra-penulisan",
+        "B. Penulisan draf",
+        "C. Editing",
+        "D. Presentasi"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 15,
+      "teks_pertanyaan": "Teks argumentasi yang dikembangkan dengan menyampaikan sebab-sebab dan diakhiri dengan pernyataan akibat dari sebab tersebut adalah pengertian dari teks argumentasi ....",
+      "pilihan_jawaban": [
+        "A. Argumentasi akibat-sebab",
+        "B. Argumentasi sebab-akibat",
+        "C. Argumentasi contoh",
+        "D. Argumentasi pemerincian"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 16,
+      "teks_pertanyaan": "Penebangan hutan secara liar mengakibatkan tanah kehilangan penopang dan resapan air sehingga mudah terjadi banjir bandang.<br>Penggalan teks tersebut merupakan contoh dari ....",
+      "pilihan_jawaban": [
+        "A. Argumentasi akibat-sebab",
+        "B. Argumentasi sebab-akibat",
+        "C. Argumentasi contoh",
+        "D. Argumentasi pemerincian"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 17,
+      "teks_pertanyaan": "Udara di kota-kota industri sangatlah kotor yang menyebabkan es di kutub mencair. Hal tersebut terjadi karena eksploitasi besar-besaran minyak bumi yang ada.<br>Penggalan teks tersebut merupakan contoh dari ....",
+      "pilihan_jawaban": [
+        "A. Argumentasi akibat-sebab",
+        "B. Argumentasi sebab-akibat",
+        "C. Argumentasi contoh",
+        "D. Argumentasi pemerincian"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 18,
+      "teks_pertanyaan": "Tujuan dari menyimak teks argumentasi adalah sebagai berikut, kecuali ....",
+      "pilihan_jawaban": [
+        "A. Memahami informasi yang disajikan",
+        "B. Mengevaluasi informasi",
+        "C. Menginterpretasikan informasi",
+        "D. Menyalahkan informasi"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 19,
+      "teks_pertanyaan": "Kata atau bahasa yang memiliki makna objektif sebenarnya, dan apa adanya disebut dengan ....",
+      "pilihan_jawaban": [
+        "A. Denotatif",
+        "B. Konotatif",
+        "C. Konspirasi",
+        "D. Majas"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 20,
+      "teks_pertanyaan": "Bacalah kutipan teks berikut untuk menjawab soal nomor 20–22!<br><br>Salah satu kebutuhan yang sangat vital bagi manusia saat ini adalah energi, tidak terkecuali manusia Indonesia. Indonesia sebenarnya memiliki berbagai macam energi melimpah. Energi tersebut ada yang dapat diperbarui, seperti energi air, matahari, angin, biomassa, panas bumi dan energi laut. Ada pula energi yang tidak dapat diperbarui, seperti minyak bumi, gas alam, batu bara dan kandungan energi nuklir pada uranium dan thorium. Energi yang dapat diperbarui (renewable energy) ini memiliki kelebihan dibandingkan dengan energi yang tidak dapat diperbarui (nonrenewable energy). Energi tersebut tidak akan pernah habis dan ramah lingkungan, karena tanpa polusi lingkungan. Energi fosil adalah energi yang akan habis jika dipakai terus-menerus dan menghasilkan polusi. Namun, energi ini memiliki kelebihan yakni menghasilkan energi yang lebih besar.<br>Walaupun kaya akan energi terbarukan, kenyataannya Indonesia masih bergantung pada energi yang tidak dapat diperbarui, seperti minyak bumi, batu bara, dan gas alam sebagai sumber kebutuhan energi. Sekarang ini, sedang diusahakan pengoptimalan penggunaan energi terbarukan yang tertuang pada Peraturan Pemerintah Nomor 79 Tahun 2014 tentang Kebijakan Energi Pasal 11 ayat 2 yang menjelaskan tentang Prioritas Pengembangan Energi Nasional sebagai berikut:<br>\"Memaksimalkan penggunaan energi terbarukan dengan memperhatikan tingkat keekonomian, meminimalkan penggunaan minyak bumi, memanfaatkan gas bumi dan energi baru, menggunakan batu bara sebagai andalan pasokan energi nasional.\"<br><br><b>Penggalan teks tersebut dalam struktur teks argumentasi termasuk ....</b>",
+      "pilihan_jawaban": [
+        "A. Pendahuluan",
+        "B. Tubuh argumen",
+        "C. Simpulan",
+        "D. Pendahuluan dan tubuh argumen"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 21,
+      "teks_pertanyaan": "Berikut ini yang termasuk kelebihan energi terbarukan adalah ....",
+      "pilihan_jawaban": [
+        "A. Ramah lingkungan",
+        "B. Habis bila dipakai terus-menerus",
+        "C. Menimbulkan polusi",
+        "D. Menghasilkan energi yang besar"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 22,
+      "teks_pertanyaan": "Salah satu kebutuhan yang sangat vital bagi manusia saat ini adalah energi. Tak terkecuali manusia Indonesia.<br>Kalimat berikut yang semakna dengan kalimat di atas adalah ....",
+      "pilihan_jawaban": [
+        "A. Kebutuhan yang sangat vital bagi manusia Indonesia saat ini adalah energi",
+        "B. Salah satu energi yang dibutuhkan manusia sangat vital adalah energi Indonesia",
+        "C. Salah satu kebutuhan yang sangat vital bagi manusia, termasuk manusia Indonesia saat ini adalah energi",
+        "D. Saat ini salah satu kebutuhan yang sangat vital bagi manusia Indonesia adalah energi"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 23,
+      "teks_pertanyaan": "Teks yang berisi ajakan, imbauan, atau argumen yang dilakukan untuk menggiring opini pembaca sehingga dapat menyetujui pendapat yang disampaikan adalah pengertian dari ....",
+      "pilihan_jawaban": [
+        "A. Teks narasi",
+        "B. Teks persuasi",
+        "C. Teks deskripsi",
+        "D. Teks prosedur"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 24,
+      "teks_pertanyaan": "Di bawah ini adalah struktur teks persuasi secara berurutan ....",
+      "pilihan_jawaban": [
+        "A. Pengenalan isu, argumen, ajakan",
+        "B. Argumen, opini, ajakan",
+        "C. Ajakan, gambaran isu, opini",
+        "D. Pengenalan isu, opini, fakta"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 25,
+      "teks_pertanyaan": "Ciri kebahasaan teks persuasi umumnya menggunakan ....",
+      "pilihan_jawaban": [
+        "A. Kata imperatif persuasif (ayolah, marilah, janganlah, dll.)",
+        "B. Kata konotatif",
+        "C. Kata humor dan kritikan",
+        "D. Kata sindiran"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 26,
+      "teks_pertanyaan": "Air PDAM Kota Semarang sering kali kurang bagus untuk dijadikan air minum rumah tangga sehari-hari karena sumber airnya berasal dari sungai yang mengalami pencemaran.<br>Penggalan teks tersebut adalah bentuk dari ....",
+      "pilihan_jawaban": [
+        "A. Fakta",
+        "B. Opini",
+        "C. Data",
+        "D. Deskripsi"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 27,
+      "teks_pertanyaan": "Di bawah ini yang termasuk norma kesantunan presentasi, kecuali ....",
+      "pilihan_jawaban": [
+        "A. Menggunakan bahasa Indonesia yang baik",
+        "B. Intonasi suara harus jelas",
+        "C. Tidak bertele-tele",
+        "D. Menyampaikan kalimat perselisihan"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 28,
+      "teks_pertanyaan": "Salah satu bentuk atau contoh mengalihwahanakan teks persuasi adalah ....",
+      "pilihan_jawaban": [
+        "A. Surat",
+        "B. Undangan",
+        "C. Poster",
+        "D. Memo"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 29,
+      "teks_pertanyaan": "Ciri-ciri poster di bawah ini, kecuali ....",
+      "pilihan_jawaban": [
+        "A. Gambar yang informatif",
+        "B. Kombinasi gambar dan warna yang kontras",
+        "C. Bahasa yang digunakan singkat, padat, jelas",
+        "D. Menyajikan kalimat yang panjang dan bertele-tele"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 30,
+      "teks_pertanyaan": "Kalimat berikut yang merupakan kalimat persuasif adalah ....",
+      "pilihan_jawaban": [
+        "A. Kelas kami akan mengadakan study tour ke Bandung, tapi dia memilih untuk tidak ikut",
+        "B. Mengapa kamu membolos hari ini?",
+        "C. Mari hidup rukun demi terciptanya lingkungan yang damai",
+        "D. Aku menolak hadir dalam acara tersebut"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 31,
+      "teks_pertanyaan": "Berikut ini yang termasuk kata kerja imperatif adalah ....",
+      "pilihan_jawaban": [
+        "A. Waspadalah",
+        "B. Menolak",
+        "C. Mengingatkan",
+        "D. Memakan"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 32,
+      "teks_pertanyaan": "Informasi mengenai kejadian atau peristiwa yang sifatnya terkini disebut ....",
+      "pilihan_jawaban": [
+        "A. Berita",
+        "B. Catatan",
+        "C. Cerita",
+        "D. Karangan"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 33,
+      "teks_pertanyaan": "Informasi yang disajikan dalam berita haruslah informasi yang bersifat ....",
+      "pilihan_jawaban": [
+        "A. Opini",
+        "B. Imajinasi",
+        "C. Aktual",
+        "D. Biasa saja"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 34,
+      "teks_pertanyaan": "Struktur teks berita secara berurutan di bawah ini, kecuali ....",
+      "pilihan_jawaban": [
+        "A. Kepala berita, ekor berita, isi",
+        "B. Kepala berita, isi",
+        "C. Isi, kepala berita, ekor berita",
+        "D. Kepala berita, tubuh berita, ekor berita"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 35,
+      "teks_pertanyaan": "Bagian berita yang memuat penjabaran rinci dari gagasan sebelumnya disebut ....",
+      "pilihan_jawaban": [
+        "A. Kepala berita",
+        "B. Leher berita",
+        "C. Tubuh berita",
+        "D. Ekor berita"
+      ],
+      "kunci_jawaban": "C"
+    },
+    {
+      "id_soal": 36,
+      "teks_pertanyaan": "Kepala berita memuat informasi berupa ....",
+      "pilihan_jawaban": [
+        "A. Gagasan penjelas",
+        "B. Gagasan utama",
+        "C. Kesimpulan berita",
+        "D. Rincian gagasan"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 37,
+      "teks_pertanyaan": "Setelah menyusun suatu berita, penulis akan memberikan atau menyajikan kesimpulan dari keseluruhan berita. Bagian tersebut biasanya terletak pada ....",
+      "pilihan_jawaban": [
+        "A. Kepala berita",
+        "B. Ekor berita",
+        "C. Judul berita",
+        "D. Tubuh berita"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 38,
+      "teks_pertanyaan": "Dalam membuat berita, harus memenuhi unsur-unsur berita yaitu 5W+1H. Di bawah ini yang termasuk unsur berita adalah ....",
+      "pilihan_jawaban": [
+        "A. Apa, siapa, kapan, mengapa, di mana",
+        "B. Siapa, kapan, mengapa, di mana, bagaimana",
+        "C. Apa, siapa, kapan, di mana, mengapa",
+        "D. Apa, di mana, kapan, siapa, mengapa, bagaimana"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 39,
+      "teks_pertanyaan": "Bacalah kutipan teks berita berikut untuk menjawab soal nomor 39–41!<br><br>Komisioner Komisi Perlindungan Anak Indonesia (KPAI), Sitti Hikmawatty menyatakan bahwa Kota Layak Anak (KLA) sepertinya sulit terwujud. Hal ini disebabkan anak belum menjadi prioritas walaupun hampir semua kabupaten/kota sudah mendaftar menjadi KLA.<br>Menurut Sitti, perspektif mengenai kesadaran anak merupakan suatu hal yang baru. Sitti memberikan contoh sarana dan prasarana yang ada di rumah sakit. Menurutnya, tidak semua rumah sakit memiliki ruang kedaruratan untuk bayi (neonatal intensive care unit/NICU) atau ruang kedaruratan untuk anak (pediatric intensive care unit).<br>Sitti mengatakan bahwa penghargaan yang diberikan oleh Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KPPPA) kepada daerah-daerah yang menyandang status Kabupaten/Kota Layak Anak selama ini adalah bentuk apresiasi kepada kota-kota tersebut. Namun, pada kenyataannya masih banyak kekerasan terhadap anak.<br>(Diolah dari berbagai sumber)<br><br><b>Unsur yang terdapat pada teks berita tersebut adalah ....</b>",
+      "pilihan_jawaban": [
+        "A. Apa, siapa",
+        "B. Apa, di mana",
+        "C. Siapa, kapan",
+        "D. Mengapa, kapan"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 40,
+      "teks_pertanyaan": "Menurut Komisioner Komisi Perlindungan Anak Indonesia (KPAI), predikat Kabupaten/Kota Layak Anak sulit terwujud karena ....",
+      "pilihan_jawaban": [
+        "A. Belum ada ruang kedaruratan anak",
+        "B. Anak belum menjadi hal yang diutamakan",
+        "C. Anak masih dipandang sebelah mata",
+        "D. Masih muncul kekerasan terhadap anak"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 41,
+      "teks_pertanyaan": "Hal yang seharusnya dilakukan oleh Kabupaten/Kota yang sudah mendapatkan penghargaan sebagai Kabupaten/Kota Layak Anak adalah ....",
+      "pilihan_jawaban": [
+        "A. Mengupayakan semaksimal mungkin agar tidak terjadi kekerasan terhadap anak",
+        "B. Menghukum pelaku kekerasan terhadap anak seberat-beratnya",
+        "C. Menjaga predikat itu sebaik mungkin agar tahun depan tidak lepas",
+        "D. Membiarkan predikat itu lepas"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 42,
+      "teks_pertanyaan": "Kota Padang di Sumatera Barat menjadi destinasi wisata terkenal yang banyak dikunjungi oleh turis domestik dan mancanegara.<br>Perbaikan dari kalimat tersebut beserta alasannya yang tepat adalah ....",
+      "pilihan_jawaban": [
+        "A. Menambahkan tanda koma setelah kata Barat karena merupakan subjek",
+        "B. Kata domestik diganti dengan kata lokal karena sesuai kaidah kebahasaan",
+        "C. Menghapus kata mancanegara karena kata turis sudah mewakili sebagai pengunjung warga negara asing",
+        "D. Kata Sumatera ditulis Sumatra sesuai dengan kaidah ejaan KBBI"
+      ],
+      "kunci_jawaban": "D"
+    },
+    {
+      "id_soal": 43,
+      "teks_pertanyaan": "Kereta bayi itu didorong ayah ketika menemani ibu membeli baju.<br>Kalimat tersebut termasuk ke dalam kalimat ....",
+      "pilihan_jawaban": [
+        "A. Majemuk bertingkat",
+        "B. Majemuk setara",
+        "C. Majemuk campuran",
+        "D. Tunggal"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 44,
+      "teks_pertanyaan": "Di bawah ini yang termasuk kalimat majemuk bertingkat adalah ....",
+      "pilihan_jawaban": [
+        "A. Aku pasti bermain ke rumahmu apabila aku punya waktu luang.",
+        "B. Saya harus membersihkan rumah terlebih dahulu atau tidak diizinkan untuk menonton konser nanti malam.",
+        "C. Ratih menjadi bingung harus pergi bersama Galih atau Sari.",
+        "D. Ayah tidak membeli mobil baru, melainkan mobil bekas."
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 45,
+      "teks_pertanyaan": "Karena lapar, maka ular itu memakan ayam.<br>Kalimat tersebut merupakan jenis kalimat ....",
+      "pilihan_jawaban": [
+        "A. Majemuk bertingkat",
+        "B. Majemuk setara",
+        "C. Majemuk campuran",
+        "D. Tunggal"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 46,
+      "teks_pertanyaan": "Konjungsi tujuan: agar, supaya, biar, untuk, demi, bagi adalah bentuk konjungsi dari kalimat…",
+      "pilihan_jawaban": [
+        "A. Majemuk bertingkat",
+        "B. Majemuk setara",
+        "C. Majemuk campuran",
+        "D. Tunggal"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 47,
+      "teks_pertanyaan": "“ Ratih menjadi bingung harus pergi bersama Galih atau Sari” Kalimat tersebut termasuk…..",
+      "pilihan_jawaban": [
+        "A. Majemuk bertingkat",
+        "B. Majemuk setara",
+        "C. Majemuk campuran",
+        "D. Tunggal"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 48,
+      "teks_pertanyaan": "“ Doni bekerja dengan keras agar bisa menutupi kebutuhan keluarganya” adalah kalimat",
+      "pilihan_jawaban": [
+        "A. Majemuk bertingkat",
+        "B. Majemuk setara",
+        "C. Majemuk campuran",
+        "D. Tunggal"
+      ],
+      "kunci_jawaban": "A"
+    },
+    {
+      "id_soal": 49,
+      "teks_pertanyaan": "“ Feri main di depan rumah, lalu makan masakan ibunya” adalah bentuk kalimat….",
+      "pilihan_jawaban": [
+        "A. Majemuk bertingkat",
+        "B. Majemuk setara",
+        "C. Majemuk campuran",
+        "D. Tunggal"
+      ],
+      "kunci_jawaban": "B"
+    },
+    {
+      "id_soal": 50,
+      "teks_pertanyaan": "Karena tidak pernah menyimak pelajaran di sekolah, Bobi mendapat nilai jelek dan harus tidak naik kelas.<br>Kalimat tersebut termasuk jenis kalimat ....",
+      "pilihan_jawaban": [
+        "A. Majemuk bertingkat",
+        "B. Majemuk setara",
+        "C. Majemuk campuran",
+        "D. Tunggal"
+      ],
+      "kunci_jawaban": "C"
+    }
+  ]
+}
