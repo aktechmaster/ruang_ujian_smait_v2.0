@@ -595,16 +595,16 @@
       "kunci_jawaban": "E"
     },
     {
-      "id_soal": 50,
-      "teks_pertanyaan": "Seorang penafsir menyimpulkan bahwa semua ayat yang mengandung seruan يَا أَيُّهَا الَّذِينَ آمَنُوا pasti Madaniyah, dan semua ayat yang mengandung يَا أَيُّهَا النَّاسُ pasti Makkiyah. Bagaimana penilaian yang paling tepat terhadap kesimpulan tersebut?",
-      "pilihan_jawaban": [
-        "A. Benar sepenuhnya karena seruan merupakan satu-satunya dasar klasifikasi",
-        "B. Benar karena setiap ayat memiliki pola bahasa yang sama",
-        "C. Salah karena tidak ada perbedaan antara Makkiyah dan Madaniyah",
-        "D. Kurang tepat karena ciri-ciri tersebut hanya merupakan kecenderungan umum, sedangkan tolok ukur utama jumhur adalah waktu hijrah",
-        "E. Salah karena klasifikasi hanya ditentukan berdasarkan panjang pendeknya ayat"
-      ],
-      "kunci_jawaban": "D"
-    }
+  "id_soal": 50,
+  "teks_pertanyaan": "Seorang penafsir menyimpulkan bahwa semua ayat yang mengandung seruan <bdi>يَا أَيُّهَا الَّذِينَ آمَنُوا</bdi> pasti Madaniyah, dan semua ayat yang mengandung <bdi>يَا أَيُّهَا النَّاسُ</bdi> pasti Makkiyah. Bagaimana penilaian yang paling tepat terhadap kesimpulan tersebut?",
+  "pilihan_jawaban": [
+    "A. Benar sepenuhnya karena seruan merupakan satu-satunya dasar klasifikasi",
+    "B. Benar karena setiap ayat memiliki pola bahasa yang sama",
+    "C. Salah karena tidak ada perbedaan antara Makkiyah dan Madaniyah",
+    "D. Kurang tepat karena ciri-ciri tersebut hanya merupakan kecenderungan umum, sedangkan tolok ukur utama jumhur adalah waktu hijrah",
+    "E. Salah karena klasifikasi hanya ditentukan berdasarkan panjang pendeknya ayat"
+  ],
+  "kunci_jawaban": "D"
+}
   ]
 }
